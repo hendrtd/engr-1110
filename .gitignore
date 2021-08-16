@@ -1,0 +1,12 @@
+# Compiled source #
+###################
+*.class
+
+# PowerPoint #
+##############
+*.ppt
+*.pptx
+
+# AV files #
+##############
+*.mp4
