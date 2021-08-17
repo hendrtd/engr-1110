@@ -11,24 +11,26 @@
 
 # Instructional Mode
 
-All eight of this course sections are *Campus* sections, meaning that in-person
+All eight sections of this course are *Campus* sections, meaning that in-person
 instruction is involved in the various components of the course described below.
 All course sections meet together for lecture but separately for lab.
 
 - *Lecture meetings*: Each Friday from 12:00 PM CT to 12:50 PM CT, course staff
   will hold an in-person lecture in Lowder 125A. All students are expected to
-  attend each lecture, but are not required to do so.
+  attend each lecture, but are not required to do so. Attendance will be
+  recorded during each lecture meeting but it does not directly factor into your
+  grade.
 
 - *Lab meetings*: Each Tuesday and Thursday Graduate Teaching Assistants (GTAs)
-  will conduct in-person lab meetings. All students are required to attend each
-  lab meeting, and can only attend the lab meeting for which they are
-  registered.
+  will conduct in-person lab meetings. All students are expected to attend each
+  lab, but are not required to do so. Attendance will be recorded during each
+  lab meeting but it does not directly factor into your grade.
 
 - *Office Hours*: Course staff will hold office hours via Zoom at a set time
   from the second week of classes through the last day of classes. No office
   hours will be held during finals week. The specific day/time for office hours
   will be announced during the first week of classes. In-person office hours are
-  available only by appointment.
+  available if needed, but only by appointment.
 
 ### Notes On In-Person Attendance
 
@@ -36,7 +38,8 @@ All health and safety policies adopted by Auburn University will be followed in
 this course. Specifically, physical distancing is not required but masks must be
 worn in the lecture room and the lab rooms. Details of these policies can be
 found on the [Auburn University COVID-19 Resource
-Center](https://auburn.edu/covid-resource-center/) website.
+Center](https://auburn.edu/covid-resource-center/) website. No food or drinks
+are allowed in the classroom. 
 
 
 # Course Description
@@ -106,8 +109,7 @@ authenticated with your AU credentials at
 
 You must have a computer and a broadband Internet connection capable of
 installing and reliably running
-[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux)
-
+[Zoom](https://support.zoom.us/hc/en-us/articles/201362023-System-requirements-for-Windows-macOS-and-Linux).
 
 
 
@@ -143,8 +145,8 @@ Shelby Center
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
-`glp0008@auburn.edu`  
-**Office Hours:** TBD  
+`pikegl@auburn.edu`  
+**Office Hours:** TR 10:30-11:30 AM, online in Zoom ID 92223237451  
 
 
 ## Graduate Teaching Assistants
@@ -202,7 +204,9 @@ score using the following scale.
 [0, 60)   | F
 
 **Extra Credit:** Opportunities for extra credit are sometimes given to the
-entire class, but are never given on an individual basis.
+entire class, but are never given on an individual basis. Extra credit
+opportunities are typically given during lecture periods and you must be present
+to earn points.
 
 
 ---
