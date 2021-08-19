@@ -1,7 +1,7 @@
 # Reflecting on the Module
 
 This module has provided an overview of the course and asked you to take some
-getting-started steps and complete some initial activities. 
+getting-started steps.
 
 Take time now to review and reflect on this module and the work you've done.
 
