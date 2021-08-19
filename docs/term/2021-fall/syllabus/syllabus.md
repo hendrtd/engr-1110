@@ -179,18 +179,18 @@ the following categories.
 - **Project** (35%): A software development project will be assigned and must be
   completed in teams.
 
-- **Reading & Response** (15%): Readings and associated responses will be
-  assigned from the Livermore text and other provided sources.
+- **Culture** (15%): Readings, discussions, quizzes, and other graded work will
+  focus on developing cultural competency in a professional context.
 
 Your total score (*Total*) for the course will be calculated as follows, where
 *A* is the percentage of possible points earned on Activities, *L* is the
 percentage of possible points earned on Labs, *P* is the percentage of possible
-points earned on the Project, and *R* is the percentage of possible points
-earned on Reading & Response. Each percentage is calculated as (*points earned*
-/ *points possible*) * 100.
+points earned on the Project, and *C* is the percentage of possible points
+earned on Culture. Each percentage is calculated as (*points earned* / *points
+possible*) * 100.
 
 
-*Total* = (0.25 * *A*) + (0.25 * *L*) + (0.35 * *P*) + (0.15 * *R*)
+*Total* = (0.25 * *A*) + (0.25 * *L*) + (0.35 * *P*) + (0.15 * *C*)
 
 Your letter grade for the course will be assigned based on your *Total* numeric
 score using the following scale.
@@ -236,22 +236,7 @@ and activities, while Module 1 through Module 7 are the course content modules.
 Module 0 is allocated to the first week of the course and the other seven
 modules are each allocated two weeks. Module 7 is slightly shorter than the
 other content modules, and the content covered is less to account for this and
-end-of-term activities. Below is a 15-week schedule for the course that
-indicates for each module the types of graded items due and the most relevant
-chapters from each textbook. 
-
-
-Week  | Module | Graded Items | zyBook        | Livermore   
-----  | ------ | ------------ | ------        | ---------  
-1     | M0     | R            |               |   
-2-3   | M1     | A L R        | Ch. 1, 2, 3   |   
-4-5   | M2     | A L R        | Ch. 4, 5, 6   |   
-6-7   | M3     | A L R P      | Ch. 7, 8, 11  |  
-8-9   | M4     | R P          |   |  
-10-11 | M5     | R P          |  |   
-12-13 | M6     | R P          |  |   
-14-15 | M7     | R P          |  |   
-
+end-of-term activities. 
 
 
 ---
