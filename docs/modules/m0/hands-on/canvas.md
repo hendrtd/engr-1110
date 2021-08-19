@@ -35,7 +35,7 @@ Take the following steps to familiarize yourself with Canvas.
       organized into course grading categories. Notice that the weight of each
       category is displayed.
     - Click in the *Search for Assignment* text box and search for a particular
-      item. For example, enter "Exam 1" in the search box and press the Enter
+      item. For example, enter "Pre-Survey" in the search box and press the Enter
       key.
 
 1. Click on **Grades** in the left menu. This page in Canvas allows you to check
