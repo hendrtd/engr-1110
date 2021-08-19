@@ -42,8 +42,8 @@ components.
   for success, and learning objectives.
 - **Instructional Resources:** Links to lecture notes for the module and
   references to associated readings from textbooks.
-- **Graded Work:** Deliverables from the Activities, Labs, Project, and Reading
-  & Reflection categories that must be turned in for a grade.
+- **Graded Work:** Deliverables from the Activities, Labs, Project, and Reading,
+  Response, & Reflection categories that must be turned in for a grade.
 - **Summary:** A brief recap of what was covered in the module.
 
 # Workflow
