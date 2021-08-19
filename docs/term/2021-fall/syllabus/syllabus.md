@@ -179,18 +179,19 @@ the following categories.
 - **Project** (35%): A software development project will be assigned and must be
   completed in teams.
 
-- **Culture** (15%): Readings, discussions, quizzes, and other graded work will
-  focus on developing cultural competency in a professional context.
+- **Reading, Reflection, & Response** (15%): Readings, discussions, quizzes, and
+  other graded work will focus on developing cultural competency in a
+  professional context.
 
 Your total score (*Total*) for the course will be calculated as follows, where
 *A* is the percentage of possible points earned on Activities, *L* is the
 percentage of possible points earned on Labs, *P* is the percentage of possible
-points earned on the Project, and *C* is the percentage of possible points
-earned on Culture. Each percentage is calculated as (*points earned* / *points
-possible*) * 100.
+points earned on the Project, and *R* is the percentage of possible points
+earned on Reading, Reflection, & Response. Each percentage is calculated as
+(*points earned* / *points possible*) * 100.
 
 
-*Total* = (0.25 * *A*) + (0.25 * *L*) + (0.35 * *P*) + (0.15 * *C*)
+*Total* = (0.25 * *A*) + (0.25 * *L*) + (0.35 * *P*) + (0.15 * *R*)
 
 Your letter grade for the course will be assigned based on your *Total* numeric
 score using the following scale.
