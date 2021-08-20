@@ -41,6 +41,9 @@ found on the [Auburn University COVID-19 Resource
 Center](https://auburn.edu/covid-resource-center/) website. No food or drinks
 are allowed in the classroom. 
 
+If you cannot attend class due to illness or exposure, a Zoom attendance option
+is available with prior approval.
+
 
 # Course Description
 
@@ -141,23 +144,24 @@ Auburn, AL 36849
 
 PhD Student  
 Computer Science and Software Engineering  
-Shelby Center  
+3127K Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
++1 205 675 0011  
 `pikegl@auburn.edu`  
 **Office Hours:** TR 10:30-11:30 AM, online in Zoom ID 92223237451  
 
 
 ## Graduate Teaching Assistants
 
-GTA | Email | Office Hours | Zoom ID 
+GTA | Email | Lab Section | Zoom Office Hours
 --- | ----- | ------------ | -------
-Mousumi Akter | `mza0170@auburn.edu` | TBD | TBD  
-Tathagata Bhattacharya | `tzb0063@auburn.edu` | TBD | 3344980832  
-Xueqian Li | `xzl0065@auburn.edu` | TBD | TBD  
-Jueting Liu | `jzl0122@auburn.edu` | TBD | TBD  
-Karen Nix | `knn0010@auburn.edu` | TBD | TBD  
+Mousumi Akter | `mza0170@auburn.edu` | Sec 002 | TBD  
+Tathagata Bhattacharya | `tzb0063@auburn.edu` | Sec 027 | 3344980832  
+Xueqian Li | `xzl0065@auburn.edu` | Sec 006, 029 | TBD  
+Jueting Liu | `jzl0122@auburn.edu` | Sec 005, 028 | TBD  
+Karen Nix | `knn0010@auburn.edu` | Sec 001, 007 | F 9:00-10:00, 7463713738  
 
 
 All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
