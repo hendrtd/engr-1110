@@ -1,4 +1,4 @@
-# Programming Reference & Resource
+# References & Resources
 
 - Chapters 1, 2, and 3 of the course zyBook (accessible via zyBook link in
   Canvas).
