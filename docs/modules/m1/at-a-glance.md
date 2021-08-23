@@ -2,7 +2,7 @@
 
 To be successful in this module you will want to practice good time management
 and adopt an iterative approach to completing the material. The
-[workflow](../m0/workflow.md) suggested in Module 0 offers a good start at
+[workflow](../m0/structure.md) suggested in Module 0 offers a good start at
 coming up with your own personal approach to getting work done. 
 
 Each module in this course builds upon previous concepts and so it is important
