@@ -30,7 +30,7 @@ You’ll also receive an email with redemption instructions.
 For the first two weeks of class, everyone gets this content for free.  All
 students in this course start as opted in to pay for the content for the course.
 The discounted price you’ll be billed is $83.95 (same as online after tax) for the zyBook
-access and TBA for RedShelf access.
+access and $16.95 for RedShelf access.
 
 If you want to opt out and not be charged, all you have to do is follow the
 instructions (see
