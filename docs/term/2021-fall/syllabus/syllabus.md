@@ -157,14 +157,15 @@ Auburn, AL 36849
 
 GTA | Email | Lab Section | Zoom Office Hours
 --- | ----- | ------------ | -------
-Mousumi Akter | `mza0170@auburn.edu` | Sec 002 | M 11:00-12:00, 7441842843  
-Tathagata Bhattacharya | `tzb0063@auburn.edu` | Sec 027 | W 10:00-11:00, 3344980832  
-Xueqian Li | `xzl0065@auburn.edu` | Sec 006, 029 | M 3:00-4:00, 7139158227  
-Jueting Liu | `jzl0122@auburn.edu` | Sec 005, 028 | F 3:00-4:00, 3342751908  
-Karen Nix | `knn0010@auburn.edu` | Sec 001, 007 | F 9:00-10:00, 7463713738  
+Mousumi Akter | `mza0170@auburn.edu` | 002, Shelby 2210 | M 11:00-12:00, 7441842843  
+Tathagata Bhattacharya | `tzb0063@auburn.edu` | 027, Shelby 2210 | W 10:00-11:00, 3344980832  
+Xueqian Li | `xzl0065@auburn.edu` | 006, 029, Shelby 2125 | M 3:00-4:00, 7139158227  
+Jueting Liu | `jzl0122@auburn.edu` | 005, 028, Shelby 2122 | F 3:00-4:00, 3342751908  
+Karen Nix | `knn0010@auburn.edu` | 001, 007, Shelby 2205 | F 9:00-10:00, 7463713738  
 
 
-All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
+All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place
+of `meetingid` in the URL `https://auburn.zoom.us/j/meetingid`.
 
 
 ---
