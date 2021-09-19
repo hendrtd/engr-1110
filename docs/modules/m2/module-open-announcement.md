@@ -1,4 +1,4 @@
-# Module 1 Announcements
+# Module 2 Announcements
 
 As you begin Module 2, here are a few things to keep in mind.
 
