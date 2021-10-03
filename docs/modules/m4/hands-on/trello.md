@@ -13,7 +13,8 @@ using it in the Team Lab Assignment.
 
 <img src="img/trello.png" width="50%">
 
-1. Enter your email address and sign up. ![sign-up](img/sign-up.png)
+1. Enter your email address and sign up. 
+<img src="img/sign-up.png" width="50%")
 
 1. Name your workspace ![workspace](img/workspace.png)
 
