@@ -11,8 +11,6 @@ using it in the Team Lab Assignment.
 
 1. Load [Trello](http://trello.com) in a web browser. ![](img/trello-small.png)
 
-   <img src="img/trello.png" width="50%">
-
 2. Enter your email address and sign up. 
 
    <img src="img/sign-up.png" width="50%")
