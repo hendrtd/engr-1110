@@ -22,7 +22,7 @@ using it in the Team Lab Assignment.
    idea of the kinds of boards you can build.
 
 1. Click on the plus symbol (+) at the top of the screen to create a new board.
-
+   ![](img/create-board.png)
 
 1. Name the new board "ENGR 1110 Team Lab Assignment". Create three lists:
    Backlog, In Progress, and Done. Add a card for each Chapter 8 lab to the In
