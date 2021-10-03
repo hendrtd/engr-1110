@@ -26,7 +26,7 @@ using it in the Team Lab Assignment.
 
 1. Name the new board "ENGR 1110 Team Lab Assignment". Create three lists:
    Backlog, In Progress, and Done. Add a card for each Chapter 8 lab to the In
-   Progress list. ![assignment-board](img/ab.png)
+   Progress list. ![assignment-board](img/assignment-board.png)
 
  
 
