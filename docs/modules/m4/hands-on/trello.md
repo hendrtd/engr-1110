@@ -9,11 +9,9 @@ to manage the work required for the team project in this course.
 This activity is designed to introduce you to Trello and to get you started
 using it in the Team Lab Assignment.
 
-1. Load [Trello](http://trello.com) in a web browser. ![](img/trello-small.png)
+1. Load [Trello](http://trello.com) in a web browser. ![](img/trello.png)
 
-2. Enter your email address and sign up. 
-
-   <img src="img/sign-up.png" width="50%")
+1. Enter your email address and sign up. ![](img/sign-up.png) 
 
 1. Name your workspace ![workspace](img/workspace.png)
 
