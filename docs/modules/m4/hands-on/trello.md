@@ -19,7 +19,7 @@ using it in the Team Lab Assignment.
    version is all you need.
 
 1. From the main workspace screen you can explore the template gallery to get an
-   idea of the kinds of boards you can build.
+   idea of the kinds of boards you can build. ![](img/home.png)
 
 1. Click on the plus symbol (+) at the top of the screen to create a new board.
    ![](img/create-board.png)
