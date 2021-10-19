@@ -38,6 +38,7 @@ Let's create a Colab notebook to produce the following plot, as shown in section
    existing code cell that was already in the notebook.
 
 5. Double-click the text cell and enter the following:
+
 ```
 # Alcohol Fatalities 1970 - 2012
 
@@ -46,6 +47,7 @@ involving alcohol from 1970 through 2012.
 ```
 
 6. Click *+Text* and enter the following in the resulting text cell.
+
 ```
 Import a Python library for plotting:
 ```
@@ -53,11 +55,13 @@ Import a Python library for plotting:
 7. Click *+Code* and enter the following in the resulting code cell. After
    entering the Python `import` statement, click the ">" *Run* button at the
    right of the code cell to execute this statement.
+   
 ```python
 import matplotlib.pyplot as plt
 ```
 
 8. Click *+Text* and enter the following in the resulting text cell.
+
 ```
 Data for this project is taken from [http://www.alcoholalert.com/drunk-driving-statistics.html](http://www.alcoholalert.com/drunk-driving-statistics.html). 
 
@@ -66,6 +70,7 @@ Download a CSV file with data for 1970 through 2012:
 
 9. Click *+Code*, enter the following command, and then click the *Run* button
    to execute.
+
 ```
 !curl https://raw.githubusercontent.com/hendrtd/engr-1110/main/docs/modules/m5/hands-on/data/dd_stats.csv --output dd_stats.csv
 ```
