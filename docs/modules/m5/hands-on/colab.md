@@ -7,7 +7,7 @@ does require a Google Account.
 
 The following steps are to be completed by each student individually.
 
-## Steps to complete this activity
+## Colab Overview
 
 1. If you do not have a Google account already, create one at the following
    link.
@@ -19,3 +19,13 @@ The following steps are to be completed by each student individually.
 
 3. Interact with a "Getting Started" Colab notebook below:
     - [https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0)
+
+## Create Your Own Colab Notebook
+
+Let's create a Colab notebook to produce the following plot, as shown in section
+11.3 of the course zyBook.
+
+![](img/plot.png)
+
+
+
