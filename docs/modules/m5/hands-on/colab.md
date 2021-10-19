@@ -44,12 +44,10 @@ Let's create a Colab notebook to produce the following plot, as shown in section
 This notebook will compare the trend in total highway fatalities to those
 involving alcohol from 1970 through 2012.
 ```
-
 1. Click *+Text* and enter the following in the resulting text cell.
 ```
 Import a Python library for plotting:
 ```
-
 1. Click *+Code* and enter the following in the resulting code cell.
 ```python
 import matplotlib.pyplot as plt
