@@ -70,4 +70,8 @@ Download a CSV file with data for 1970 through 2012:
 !curl https://raw.githubusercontent.com/hendrtd/engr-1110/main/docs/modules/m5/hands-on/data/dd_stats.csv --output dd_stats.csv
 ```
 
+10. Continue adding code and text cells to finish creating the rest of the
+    notebook at the link below.
+    - [https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing](https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing)
+
 
