@@ -13,11 +13,11 @@ The following steps are to be completed by each student individually.
    link.
    - [https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)
 
-2. Become familiar with Colab's structure and capabilities by watching the
+1. Become familiar with Colab's structure and capabilities by watching the
    following video:
    - [https://youtu.be/inN8seMm7UI](https://youtu.be/inN8seMm7UI) 
 
-3. Interact with a "Getting Started" Colab notebook below:
+1. Interact with a "Getting Started" Colab notebook below:
     - [https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0](https://colab.research.google.com/notebooks/welcome.ipynb#scrollTo=5fCEDCU_qrC0)
 
 ## Create Your Own Colab Notebook
@@ -27,5 +27,22 @@ Let's create a Colab notebook to produce the following plot, as shown in section
 
 ![](img/plot.png)
 
+1. In the Colab *File* menu, click *New notebook*.
+
+1. The notebook will have a default "untitled" name. Change the name to
+   something meaningful.
+
+1. Click the *+Text* button to add a text cell to the notebook.
+
+1. Click the up-arrow button to the right to move the text cell above the
+   existing code cell that was already in the notebook.
+
+1. Double-click the text cell and enter the following:
+```
+# Alcohol Fatalities 1970 - 2012
+
+This notebook will compare the trend in total highway fatalities to those
+involving alcohol from 1970 through 2012.
+```
 
 
