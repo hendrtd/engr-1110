@@ -25,7 +25,7 @@ See you on Thursday, and War Eagle!
 > Associate Professor and Associate Department Chair  
 > Director, CSSE Undergraduate Programs  
 > Department of Computer Science and Software Engineering  
->` hendrtd@auburn.edu`  
+> `hendrtd@auburn.edu`  
 
 
 
