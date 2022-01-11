@@ -14,18 +14,18 @@ instructional modality, course policies, grading and more.
 
 See you on Thursday, and War Eagle!
 
-> Gary Pike
-> Course Instructor
-> PhD Student, Computer Science and Software Engineering
-> `pikegl@auburn.edu`
->
->
+> Gary Pike  
+> Course Instructor  
+> PhD Student, Computer Science and Software Engineering  
+> `pikegl@auburn.edu`  
+>    
+>     
 > Dean Hendrix  
-> Course Coordinator
+> Course Coordinator  
 > Associate Professor and Associate Department Chair  
 > Director, CSSE Undergraduate Programs  
 > Department of Computer Science and Software Engineering  
->` hendrtd@auburn.edu`
+>` hendrtd@auburn.edu`  
 
 
 
