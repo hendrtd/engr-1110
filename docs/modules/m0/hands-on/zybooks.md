@@ -2,18 +2,18 @@
 
 This course uses a custom zyBook from the *zyBooks* Wiley Brand as a required
 course resource. Payment for zyBook access is handled via the AU All Access
-program, and there is a Canvas announcement with details about that.
+program, and there is a Canvas announcement with further details about payment
+via your ebill.
+
+**DO NOT purchase access directly from zyBooks.**
 
 To access and subscribe to the zyBook:
 
-1. Go to the first zyBook assignment in Canvas, which is the very next section
-   in this module.
-1. Click on the "load in a new window" button at the bottom of the page, as
-   pictured below.
-   ![load in new window button](img/zybook-canvas-load.png)
-   *This will open the course zyBook.*
+1. Click on the "load in a new window" button at the bottom of this page.  *This
+   will open the course zyBook in the context of an assignment.*
 1. Provide the AU All Access access code (received via email from
-   `noreply@auburn.edu`) to subscribe to the zyBook.
+   `noreply@auburn.edu`) to subscribe to the zyBook. Do not provide any credit
+   card information. Only provide the access code.
 
 Here are links to Help Center articles provided by zyBooks that provide an
 overview of assignments in zyBooks and how to submit them for grades in Canvas.
