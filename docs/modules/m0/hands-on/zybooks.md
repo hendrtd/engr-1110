@@ -5,15 +5,18 @@ course resource. Payment for zyBook access is handled via the AU All Access
 program, and there is a Canvas announcement with further details about payment
 via your ebill.
 
-**DO NOT purchase access directly from zyBooks.**
-
 To access and subscribe to the zyBook:
 
-1. Click on the "load in a new window" button at the bottom of this page.  *This
+1. Click on the "load in a new window" button at the bottom of this page. *This
    will open the course zyBook in the context of an assignment.*
-1. Provide the AU All Access access code (received via email from
-   `noreply@auburn.edu`) to subscribe to the zyBook. Do not provide any credit
-   card information. Only provide the access code.
+
+1. Complete the assignment and your score will be automatically posted to
+   Canvas.
+
+If you do not opt out of the All Access program by the given deadline, you will
+automatically be charged for the zyBook access on your next ebill. If you opt
+out you will lose access and you will have to make payment on your own to
+continue access.
 
 Here are links to Help Center articles provided by zyBooks that provide an
 overview of assignments in zyBooks and how to submit them for grades in Canvas.
