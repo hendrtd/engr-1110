@@ -57,7 +57,7 @@ this course. Specifically, physical distancing is not required but masks must be
 worn in the lecture room and the lab rooms. Details of these policies can be
 found on the [Auburn University COVID-19 Resource
 Center](https://auburn.edu/covid-resource-center/) website. No food or drinks
-are allowed in the classroom. 
+are allowed in the classroom or in the labs.
 
 If you cannot attend class due to illness or exposure, a Zoom attendance option
 is available with prior approval.
@@ -150,7 +150,8 @@ Auburn University
 Auburn, AL 36849  
 +1 205 675 0011  
 `pikegl@auburn.edu`  
-**Office Hours:** TR 10:30-11:30 AM, online in Zoom ID 92223237451  
+**Office Hours:** TR 11:30 AM - 12:30 PM, online in Zoom ID 92223237451  
+*In-person meetings avaiable by appointment only.*   
 
 
 ## Graduate Teaching Assistants
@@ -158,7 +159,6 @@ Auburn, AL 36849
 GTA | Email | Zoom Office Hours
 --- | ----- | -------
 Jordan Allred | `jra0027@auburn.edu` | TBA  
-Abhishek Kulkarni | `aak0010@auburn.edu` | TBA   
 Xueqian Li | `xzl0065@auburn.edu` | M 3:00-4:00, 7139158227  
 Karen Nix | `knn0010@auburn.edu` | F 9:00-10:00, 7463713738  
 
