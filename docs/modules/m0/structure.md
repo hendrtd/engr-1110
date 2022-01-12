@@ -16,8 +16,8 @@ Scheduling, planning, and knowing when things are due are easy with timeboxed
 modules. All graded items are scheduled to be due or delivered on module
 boundaries. Specifically, each graded item in the course is due by the last
 Friday of the module that contains it. The last Saturday and Sunday of each
-module are late days: assignments due during the module can be turned in for
-significant grade penalties.
+module are late days: a 25% penalty is applied to assignments turned in on
+Saturday, and a 50% penalty is applied to assignments turned in on Sunday.
 
 Here is the specific schedule for [Spring 
 2022](http://www.auburn.edu/main/auweb_calendar.php).
