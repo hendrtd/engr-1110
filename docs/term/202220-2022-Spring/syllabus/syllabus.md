@@ -24,10 +24,14 @@ Section | Day | Time | Location
 
 Section   | Day | Time | Location
 -------   | --- | ---- | --------
-005       | TR | 12:30 PM - 1:45 PM | Shelby 2122
-006       | TR | 12:30 PM - 1:45 PM | Shelby 2125
+005       | TR | 12:30 PM - 1:45 PM | Shelby 2205
+006       | TR | 12:30 PM - 1:45 PM | Shelby 2205
 007       | TR | 12:30 PM - 1:45 PM | Shelby 2205
-035       | TR | 12:30 PM - 1:45 PM | Shelby 2210
+035       | TR | 12:30 PM - 1:45 PM | Shelby 2205
+
+**Note:** This semester we are meeting **all** lab sections together in the same
+computer lab - Shelby 2205 - rather than the one may appear on your Tiger
+Scheduler.
 
 
 # Instructional Mode
