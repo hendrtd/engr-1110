@@ -37,11 +37,11 @@ instruction is involved in the various components of the course described below.
 All course sections meet together for lecture but separately for lab.
 
 - *Lecture meetings*: Course staff will conduct in-person lectures and all
-  students are expected to attend. Attendance will be recorded and attendance
+  students are required to attend. Attendance will be recorded and attendance
   can affect your grade through bonus point opportunities. 
 
 - *Lab meetings*: Course staff will conduct in-person labs and all students are
-  expected to attend. Attendance will be recorded and can directly affect your
+  required to attend. Attendance will be recorded and can directly affect your
   grade in project work. Some graded items can only be completed in lab.
 
 - *Office Hours*: Course staff will hold office hours via Zoom at a set time
