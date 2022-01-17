@@ -8,7 +8,7 @@ last Sunday of the module.
 **Use the dates in Canvas as your guide to submitting zyBook assignments, not
 the dates in the zyBook itself.**
 
-Here are zyBook FAQs that you may find helpful when completing and submitting
+Here are a few FAQs from zyBooks that you may find helpful when completing and submitting
 zyBook assignments.
 
 - [What are assignments, how do I get credit for them and how do I submit
