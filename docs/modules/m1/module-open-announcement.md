@@ -22,8 +22,10 @@ As you begin Module 1, here are a few things to keep in mind.
   practicing and **doing** are vitally important to mastering the course
   content.
 
-- As in each module, all graded work items are due no later than 11:59 PM CT on
-  the last day of the module.
+- As in each module, all graded work items are due by the last Friday of the
+  module. You may submit on the last Saturday of the module for a 25% penalty,
+  and on the last Sunday of the module for a 50% penalty. No work will be
+  accepted after the last Sunday of the module.
 
 - Be sure to ask any questions that you have. The most efficient way to get
   general questions answered is by posting to the course forum.
