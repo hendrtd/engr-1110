@@ -162,9 +162,9 @@ Auburn, AL 36849
 
 GTA | Email | Zoom Office Hours
 --- | ----- | -------
-Jordan Allred | `jra0027@auburn.edu` | TBA  
+Jordan Allred | `jra0027@auburn.edu` | TR 9:30-10:30 81842384967   
 Xueqian Li | `xzl0065@auburn.edu` | M 3:00-4:00, 7139158227  
-Karen Nix | `knn0010@auburn.edu` | F 9:00-10:00, 7463713738  
+Karen Nix | `knn0010@auburn.edu` | M 9:00-10:00, 7463713738  
 
 
 All TA Zoom Meeting IDs can be entered directly in the Zoom app or used in place
