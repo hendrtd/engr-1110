@@ -12,26 +12,31 @@ methods](https://en.wikipedia.org/wiki/Agile_software_development), as we go
 through the course and you'll recognize similarities to
 [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)) sprints.
 
-Scheduling, planning, and knowing when things are due are easy with timeboxed
-modules. All graded items are scheduled to be due or delivered on module
-boundaries. Specifically, each graded item in the course is due by the last
-Friday of the module that contains it. The last Saturday and Sunday of each
+Scheduling, planning, and knowing when things are due are easily done with
+timeboxed modules. All graded items are scheduled to be due or delivered on
+module boundaries. Specifically, each graded item in the course is due by the
+last Friday of the module that contains it. The last Saturday and Sunday of each
 module are late days: a 25% penalty is applied to assignments turned in on
 Saturday, and a 50% penalty is applied to assignments turned in on Sunday.
 
-Here is the specific schedule for [Summer  
-2022](http://www.auburn.edu/main/auweb_calendar.php).
+Here is the schedule for [Fall 2022](http://www.auburn.edu/main/auweb_calendar.php)
+which includes 109 calendar days.
 
-Module | Begin | End
------- | ----- | ---
-M0 | Wed 18 May  | Sun 22 May    
-M1 | Mon 23 May  | Wed 1 June    
-M2 | Thu 2 June  | Sat 11 June    
-M3 | Sun 12 June | Tue 21 June    
-M4 | Wed 22 June | Fri 1 July    
-M5 | Sat 2 July  | Mon 11 July   
-M6 | Tue 12 July | Thu 21 July    
-M7 | Fri 22 July | Sun 31 July    
+Module | Begin      | End        | Duration 
+------ | ---------- | ---------- | --------   
+M0     | Tue 16 Aug | Sun 21 Aug | (6 days)  
+M1     | Mon 22 Aug | Sun 4 Sep  | (14 days)  
+M2     | Mon 5 Sep  | Sun 18 Sep | (14 days)^  
+M3     | Mon 19 Sep | Sun 2 Oct  | (14 days)  
+M4     | Mon 3 Oct  | Sun 16 Oct | (14 days)^  
+M5     | Mon 17 Oct | Sun 30 Oct | (14 days)   
+M6     | Mon 31 Oct | Sun 13 Nov | (14 days)  
+M7     | Mon 14 Nov | Fri 2 Dec  | (19 days)^     
+
+^ *University No-Class Days:*  
+- Labor Day: Mon 5 Sep  
+- Fall Break: Thu 6 Oct - Fri 7 Oct  
+- Thanksgiving: Mon 21 Nov - Fri 25 Nov  
 
 
 # Module Structure
