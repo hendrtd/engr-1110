@@ -16,24 +16,24 @@ together for lecture and separately (by section) for lab.
 
 ## Lecture
 
-Section | Day | Time | Location
-------- | --- | ---- | --------
-(all)   | M   | 8:00 AM - 8:50 AM | Foy 258  
+Section | Day | Time | Location | Staff  
+------- | --- | ---- | -------- | -----  
+(all)   | M   | 8:00 AM - 8:50 AM | Foy 258 | Pike  
 
 ## Lab
 
-Section   | Day | Time | Location
--------   | --- | ---- | --------
-001       | TR | 12:30 PM - 1:45 PM | Shelby 2205
-002       | TR | 12:30 PM - 1:45 PM | Shelby 2210   
-005       | TR | 12:30 PM - 1:45 PM | Shelby 2122  
-006       | TR | 12:30 PM - 1:45 PM | Shelby 2125  
-007       | TR |  2:00 PM - 3:15 PM | Shelby 2205
-027       | TR |  2:00 PM - 3:15 PM | Shelby 2210   
-028       | TR |  2:00 PM - 3:15 PM | Shelby 2122  
-029       | TR |  2:00 PM - 3:15 PM | Shelby 2125  
-030       | TR |  3:30 PM - 4:45 PM | Shelby 2205
-031       | TR |  3:30 PM - 4:45 PM | Shelby 2210   
+Section   | Day | Time | Location | Staff  
+-------   | --- | ---- | -------- | -----  
+001       | TR | 12:30 PM - 1:45 PM | Shelby 2205 | Courson  
+002       | TR | 12:30 PM - 1:45 PM | Shelby 2210 | Morrell  
+005       | TR | 12:30 PM - 1:45 PM | Shelby 2122 | Nix  
+006       | TR | 12:30 PM - 1:45 PM | Shelby 2125 | Reza  
+007       | TR |  2:00 PM - 3:15 PM | Shelby 2205 | Allred  
+027       | TR |  2:00 PM - 3:15 PM | Shelby 2210 | Morrell  
+028       | TR |  2:00 PM - 3:15 PM | Shelby 2122 | Nix  
+029       | TR |  2:00 PM - 3:15 PM | Shelby 2125 | Reza  
+030       | TR |  3:30 PM - 4:45 PM | Shelby 2205 | Allred  
+031       | TR |  3:30 PM - 4:45 PM | Shelby 2210 | Moyers  
 
 
 # Instructional Mode
@@ -134,7 +134,7 @@ on the course material.
 
 PhD Student  
 Computer Science and Software Engineering  
-3127K Shelby Center  
+3101 Shelby Center  
 Auburn University  
 345 West Magnolia Ave  
 Auburn, AL 36849  
@@ -147,10 +147,12 @@ Auburn, AL 36849
 
 GTA | Email   
 --- | -----   
-tba | `tba@auburn.edu`  
-tba | `tba@auburn.edu`  
-tba | `tba@auburn.edu`  
-tba | `tba@auburn.edu`  
+Jordan Allred | `jra0027@auburn.edu`    
+James Courson | `jbc0071@auburn.edu`  
+Brandon Morrell | `bdm0042@auburn.edu`  
+Noah Moyers | `ncm0034@auburn.edu`  
+Karen Nix | `knn0010@auburn.edu`  
+Arju Reza | `arr0056@auburn.edu`  
 
 
 
