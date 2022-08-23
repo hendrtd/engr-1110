@@ -30,7 +30,7 @@ Section   | Day | Time | Location | Staff
 006       | TR | 12:30 PM - 1:45 PM | Shelby 2125 | Reza  
 007       | TR |  2:00 PM - 3:15 PM | Shelby 2205 | Allred  
 027       | TR |  2:00 PM - 3:15 PM | Shelby 2210 | Morrell  
-028       | TR |  2:00 PM - 3:15 PM | Shelby 2122 | Nix  
+028       | TR |  2:00 PM - 3:15 PM | Shelby 2122 | Sumoza-Linares  
 029       | TR |  2:00 PM - 3:15 PM | Shelby 2125 | Reza  
 030       | TR |  3:30 PM - 4:45 PM | Shelby 2205 | Allred  
 031       | TR |  3:30 PM - 4:45 PM | Shelby 2210 | Moyers  
@@ -153,6 +153,7 @@ Brandon Morrell | `bdm0042@auburn.edu`
 Noah Moyers | `ncm0034@auburn.edu`  
 Karen Nix | `knn0010@auburn.edu`  
 Arju Reza | `arr0056@auburn.edu`  
+Daniela Simoza-Linares | `dvs002@auburn.edu`  
 
 
 
