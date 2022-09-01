@@ -145,15 +145,16 @@ Auburn, AL 36849
 
 ## Graduate Teaching Assistants
 
-GTA | Email   
---- | -----   
-Jordan Allred | `jra0027@auburn.edu`    
-James Courson | `jbc0071@auburn.edu`  
-Brandon Morrell | `bdm0042@auburn.edu`  
-Noah Moyers | `ncm0034@auburn.edu`  
-Karen Nix | `knn0010@auburn.edu`  
-Arju Reza | `arr0056@auburn.edu`  
-Daniela Simoza-Linares | `dvs002@auburn.edu`  
+GTA | Email | Office Hours | Location   
+--- | ----- | ------------ | --------    
+Jordan Allred | `jra0027@auburn.edu` | Fri 9:00-10:00 | Zoom `818 4238 4967`   
+James Courson | `jbc0071@auburn.edu` | Mon 1:15-2:15  | Zoom `967 635 5828`  
+Brandon Morrell | `bdm0042@auburn.edu` | Thu 5:00-6:00 | In-person Shelby 2205  
+Noah Moyers | `ncm0034@auburn.edu` | Wed 3:00-4:00 | Zoom `285 147 9097`  
+Karen Nix | `knn0010@auburn.edu` | Wed 9:00-10:00 | Zoom `746 371 3738`  
+Arju Reza | `arr0056@auburn.edu` | Wed 1:00-2:00 | Zoom `869 1965 3597`  
+Daniela Simoza-Linares | `dvs0002@auburn.edu` | Thu 11:30-12:30 | In-person
+Shelby 2101  
 
 
 
