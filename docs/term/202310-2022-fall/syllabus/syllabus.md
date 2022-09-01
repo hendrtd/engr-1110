@@ -153,14 +153,13 @@ Brandon Morrell | `bdm0042@auburn.edu` | Thu 5:00-6:00 | In-person Shelby 2205
 Noah Moyers | `ncm0034@auburn.edu` | Wed 3:00-4:00 | Zoom `285 147 9097`  
 Karen Nix | `knn0010@auburn.edu` | Wed 9:00-10:00 | Zoom `746 371 3738`  
 Arju Reza | `arr0056@auburn.edu` | Wed 1:00-2:00 | Zoom `869 1965 3597`  
-Daniela Simoza-Linares | `dvs0002@auburn.edu` | Thu 11:30-12:30 | In-person
-Shelby 2101  
+Daniela Simoza-Linares | `dvs0002@auburn.edu` | Thu 11:30-12:30 | In-person Shelby 2101  
 
 
 
 ## Course Coordinator
 
-### Dean Hendrix 
+### Dean Hendrix
 
 Associate Professor and Associate Department Chair  
 Computer Science and Software Engineering  
@@ -172,8 +171,6 @@ Auburn, AL 36849
 `dean.hendrix@auburn.edu`  
 <http://eng.auburn.edu/csse>  
 **Office Hours:** W 10-11 AM, online at <https://aub.ie/dean-hendrix-zoom>  
-
-
 
 ---
 
