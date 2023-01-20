@@ -221,22 +221,21 @@ This course is organized using [time
 boxing](https://en.wikipedia.org/wiki/Timeboxing) principles as follows.
 
 
-Module  | Dates                   | Duration 
-------  | ----------------------- | -------- 
-Week 01 | Fri 13 Jan - Thu 19 Jan | (7 days)^  
-Week 02 | Fri 20 Jan - Thu 26 Jan | (7 days)  
-Week 03 | Fri 27 Jan - Thu 02 Feb | (7 days)  
-Week 04 | Fri 03 Feb - Thu 09 Feb | (7 days)  
-Week 05 | Fri 10 Feb - Thu 16 Feb | (7 days)  
-Week 06 | Fri 17 Feb - Thu 23 Feb | (7 days)  
-Week 07 | Fri 24 Feb - Thu 02 Mar | (7 days)  
-Week 08 | Fri 03 Mar - Thu 16 Mar | (14 days)^  
-Week 09 | Fri 17 Mar - Thu 23 Mar | (7 days)  
-Week 10 | Fri 24 Mar - Thu 30 Mar | (7 days)  
-Week 11 | Fri 31 Mar - Thu 06 Apr | (7 days)  
-Week 12 | Fri 07 Apr - Thu 13 Apr | (7 days)  
-Week 13 | Fri 14 Apr - Thu 20 Apr | (7 days)  
-Week 14 | Fri 21 Apr - Thu 27 Apr | (7 days)  
+Module    | Dates                   | Duration 
+------    | ----------------------- | -------- 
+Module 01 | Fri 20 Jan - Thu 26 Jan | (7 days)  
+Module 02 | Fri 27 Jan - Thu 02 Feb | (7 days)  
+Module 03 | Fri 03 Feb - Thu 09 Feb | (7 days)  
+Module 04 | Fri 10 Feb - Thu 16 Feb | (7 days)  
+Module 05 | Fri 17 Feb - Thu 23 Feb | (7 days)  
+Module 06 | Fri 24 Feb - Thu 02 Mar | (7 days)  
+Module 07 | Fri 03 Mar - Thu 16 Mar | (14 days)^  
+Module 08 | Fri 17 Mar - Thu 23 Mar | (7 days)  
+Module 09 | Fri 24 Mar - Thu 30 Mar | (7 days)  
+Module 10 | Fri 31 Mar - Thu 06 Apr | (7 days)  
+Module 11 | Fri 07 Apr - Thu 13 Apr | (7 days)  
+Module 12 | Fri 14 Apr - Thu 20 Apr | (7 days)  
+Module 13 | Fri 21 Apr - Thu 27 Apr | (7 days)  
 
 ^ *University No-Class Days:*  
 - M. L. King Jr. Day: Mon 16 Jan   
