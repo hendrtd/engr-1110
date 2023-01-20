@@ -1,12 +1,7 @@
-You must complete **and submit** the associated zyBook assignment by clicking on
-the *Load in new window* button below. For full credit you must complete and
-submit the associated zyBook assignment by the **last Friday of the module**.
-You may submit on the last Saturday of the module for a 25% penalty, and on the
-last Sunday of the module for a 50% penalty. No work will be accepted after the
-last Sunday of the module.
-
-**Use the dates in Canvas as your guide to submitting zyBook assignments, not
-the dates in the zyBook itself.**
+You must complete **and submit** the associated zyBook assignment by clicking
+on the *Load in new window* button below. To receive credit you must complete
+and submit the associated zyBook assignment by the **last day of the module**
+(the coming Thursday). 
 
 Here are a few FAQs from zyBooks that you may find helpful when completing and submitting
 zyBook assignments.
