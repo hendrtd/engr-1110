@@ -150,15 +150,15 @@ Auburn University
 Auburn, AL 36849  
 +1 (205) 675-0011  
 `pikegl@auburn.edu`  
-**Office Hours:** TBA
+**Office Hours:** By appointment, schedule via email request  
 
 
 ## Graduate Teaching Assistants
 
 GTA | Email | Office Hours | Location   
 --- | ----- | ------------ | --------    
-Brandon Morrell | `bdm0042@auburn.edu` | TBA | TBA  
-Karen Nix | `knn0010@auburn.edu` | TBA | TBA  
+Brandon Morrell | `bdm0042@auburn.edu` | Thu 5:00 PM | Shelby 2205  
+Karen Nix | `knn0010@auburn.edu` | Mon 9:00 AM | Zoom ID `746 371 3738`  
 
 
 
