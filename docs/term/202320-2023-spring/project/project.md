@@ -99,9 +99,9 @@ Deliverable | Points | Due Dates
 ----------- | ------ | ---------  
 Trello Sign-up | 10 | Mar 14  
 Project Proposal and Scrum | 10 | Mar 16  
-Beta release with Scrum board | 25 | Mar 30  
-Final release with Scrum board | 90 | Apr 20  
-Presentation | 90 | Apr 27  
+Beta release with Scrum board | 45 | Mar 30  
+Final release with Scrum board | 80 | Apr 20  
+Presentation | 80 | Apr 27  
 Peer evaluation | 15 | Apr 28  
 Lab attendance | 60 | Mar 7 - Apr 28  
 *Total Points:* | 300 |    
