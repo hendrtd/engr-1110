@@ -18,7 +18,7 @@ together for lecture and separately (by section) for lab.
 
 Section | Day | Time | Location | Staff  
 ------- | --- | ---- | -------- | -----  
-(all)   | M   | 08:00 AM - 08:50 AM | Foy 258 | Hendrix  
+(all)   | M   | 08:00 AM - 08:50 AM | Foy 258 | Dr. Hendrix  
 
 ## Lab
 
