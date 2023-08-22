@@ -30,12 +30,12 @@ Section   | Day | Time | Location | Staff
 006       | TR  | 12:30 PM - 1:45 PM | Shelby 2125 | Jack Young  
  | | | |   
 007       | TR  |  2:00 PM - 3:15 PM | Shelby 2205 | Muhammad Gulfam  
-027       | TR  |  2:00 PM - 3:15 PM | Shelby 2210 | Wyatt Lemaster  
+027       | TR  |  2:00 PM - 3:15 PM | Shelby 2210 | Annie Murphy  
 028       | TR  |  2:00 PM - 3:15 PM | Shelby 2122 | Karen Nix  
 029       | TR  |  2:00 PM - 3:15 PM | Shelby 2125 | Jackson Shaw  
  | | | |  
-030       | TR  |  3:30 PM - 4:45 PM | Shelby 2205 | Annie Murphy  
-031       | TR  |  3:30 PM - 4:45 PM | Shelby 2210 | Jack Young  
+030       | TR  |  3:30 PM - 4:45 PM | Shelby 2205 | Jack Young  
+031       | TR  |  3:30 PM - 4:45 PM | Shelby 2210 | Annie Murphy  
 
 
 # Instructional Mode
