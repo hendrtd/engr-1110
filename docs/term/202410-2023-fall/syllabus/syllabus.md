@@ -34,8 +34,8 @@ Section   | Day | Time | Location | Staff
 028       | TR  |  2:00 PM - 3:15 PM | Shelby 2122 | Karen Nix  
 029       | TR  |  2:00 PM - 3:15 PM | Shelby 2125 | Jackson Shaw  
  | | | |  
-030       | TR  |  3:30 PM - 4:45 PM | Shelby 2205 | Jack Young  
-031       | TR  |  3:30 PM - 4:45 PM | Shelby 2210 | Annie Murphy  
+030       | TR  |  3:30 PM - 4:45 PM | Shelby 2122 | Jack Young  
+031       | TR  |  3:30 PM - 4:45 PM | Shelby 3205 | Annie Murphy  
 
 
 # Instructional Mode
