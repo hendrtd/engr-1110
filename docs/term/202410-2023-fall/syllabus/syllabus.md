@@ -145,7 +145,7 @@ Auburn, AL 36849
 
 TA              | Email                | Office Hours  
 ---             | -----                | ------------   
-Mohammad Gulfam | `mzg0108@auburn.edu` | TBD  
+Muhammad Gulfam | `mzg0108@auburn.edu` | TBD  
 Wyatt Lemaster  | `wwl0004@auburn.edu` | TBD  
 Annie Murphy    | `arm0129@auburn.edu` | TBD  
 Karen Nix       | `knn0010@auburn.edu` | TBD  
