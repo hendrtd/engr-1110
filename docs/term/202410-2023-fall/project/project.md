@@ -102,8 +102,8 @@ something that excites you! Impress us!
 
 ## Project Deliverables, Due Dates, and Grading
 
-Deliverable  | Points | Due Date   
------------    ------   --------   
+Deliverable | Points | Due Date   
+----------- | ------ | --------   
 Concept      | 100    | Oct 15   
 Alpha        | 100    | Oct 29  
 Beta         | 100    | Nov 12  
