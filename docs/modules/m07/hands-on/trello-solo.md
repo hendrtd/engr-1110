@@ -31,7 +31,6 @@ using it in a Team Lab Assignment.
 
 1. Create three lists: Backlog, In Progress, and Done. Add a card for each
    Chapter 9 lab in the assignment to the Backlog list.
-   ![assignment-board](img/assignment-board.png)
 
 1. Add due dates, checklists, and other features to the card for each lab to
    help plan and schedule your work.
