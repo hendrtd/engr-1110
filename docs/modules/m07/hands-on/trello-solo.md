@@ -47,7 +47,5 @@ using it in a Team Lab Assignment.
    select "Copy link". 
    ![](img/share.png)
 
-1. Record this link as the answer to the quiz to earn points for this activity.
-
-
+1. Record this link as the required submission to this assignment.
 
