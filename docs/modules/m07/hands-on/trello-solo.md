@@ -19,7 +19,8 @@ using it in a Team Lab Assignment.
    version is all you need.**
 
 1. From the main workspace screen you can explore the template gallery to get an
-   idea of the kinds of boards you can build. ![](img/home.png)
+   idea of the kinds of boards you can build. 
+   ![](img/home.png)
 
 1. Use the Workspace Settings menu to make your workspace **Public**.
 
@@ -43,7 +44,8 @@ using it in a Team Lab Assignment.
 
 1. Once you have completed the assignment and documented your work in the Trello
    board, click the Share button in the top-right of the Trello interface and
-   select "Copy link". ![](img/share.png)
+   select "Copy link". 
+   ![](img/share.png)
 
 1. Record this link as the answer to the quiz to earn points for this activity.
 
