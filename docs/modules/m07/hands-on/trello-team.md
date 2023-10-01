@@ -1,43 +1,55 @@
-# Getting Started with Trello
+# Using Trello as a Team
 
-Trello is a web-based tool that supports work management via
-[Kanban](https://en.wikipedia.org/wiki/Kanban_board) boards. Trello is owned by
-[Atlassian](https://www.atlassian.com/), a company that develops products for
-software development and project management. You and your team will use Trello
-to manage the work required for the team project in this course.
+Now that you've used Trello yourself for individual work, this activity is
+designed to help you use Trello in a team environment. **All members of the team
+should be present and work through the first several step together, with each
+member logged into their Trello account.**
 
-This activity is designed to introduce you to Trello and to get you started
-using it in a Team Lab Assignment.
+1. Load [Trello](http://trello.com) in a web browser and log in.
 
-1. Load [Trello](http://trello.com) in a web browser. ![](img/trello.png)
+1. Create a new board and name it "Team Lab: zyBook Chapter 10 Labs".
 
-1. Enter your email address and sign up. ![](img/sign-up.png) 
+1. Click the Share button in the top right of the Trello window and add each
+   member of the team to the Board.
 
-1. Name your workspace ![workspace](img/workspace.png)
+1. Create three lists named "Backlog", "In Progress", and "Done".
 
-1. Click *Skip* to avoid signing up for Premium or the free trial. **The free
-   version is all you need.**
+1. In the Backlog list, add a card for each lab below in the zyBook Chapter 10
+   assignment.
 
-1. From the main workspace screen you can explore the template gallery to get an
-   idea of the kinds of boards you can build. ![](img/home.png)
+   - 10.8 LAB: Words in a range (lists)
+   - 10.9 LAB: Word frequencies (lists)
+   - 10.10 LAB: Sorting TV Shows (dictionaries and lists)
+   - 10.11 LAB: Course Grade
+   - 10.11 LAB: Thesaurus
 
-1. Build a sample board and explore the different options you have for organzing
-   and planning your work.
+1. Add exactly one member to each card. This assigns the **responsibility** of
+   completing that particular lab to the given team member. (*Note: If your team
+   has only 4 members, you can pick the Chapter 10 lab that you leave undone.
+   Your team grade will be updated so that your score is not penalized.*)
 
+1. Each team member should customize their card with due dates, checklists, and
+   other features to help plan and document their work. 
 
-**You will need to be working with your team in lab to complete the remainder of
-this activity.**
+1. Each team member must work independently to meet the responsibility of
+   completing their assigned lab. Other team members can provide help,
+   suggestions, and guidance, but the team member assigned to the card must
+   complete the work.
 
-1. While sitting 
+1. Each team member must move their assigned card through the three lists
+   (Backlog, In Progress, and Done) to document their work.
 
-1. Select one member of your team to complete the next steps
-
-1. Click on the plus symbol (+) at the top of the screen to create a new board.
-   ![](img/create-board.png)
-
-1. Name the new board "ENGR 1110 Team Lab Assignment". Create three lists:
-   Backlog, In Progress, and Done. Add a card for each Chapter 8 lab to the In
-   Progress list. ![assignment-board](img/assignment-board.png)
-
+1. Before the due date, **one member** of the team must click the Share button,
+   select "Copy link", and then record this link as the required submission in
+   Canvas.
  
+**NOTES ON GRADING:**
+- Each member of the team will be assigned the **same grade** for this
+  assignment.
+- The team grade will be composed of the scores earned by each individual member
+  of the team.
+- The grade for each lab will be the score recorded in zyBooks for the team
+  member assigned to that lab.
+- The grade for using Trello will be based on how each team member documented
+  their work appropriately in Trello.
 
