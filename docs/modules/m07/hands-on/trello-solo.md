@@ -7,7 +7,7 @@ software development and project management. You and your team will use Trello
 to manage the work required for the team project in this course.
 
 This activity is designed to introduce you to Trello and to get you started
-using it in a Team Lab Assignment.
+using it to plan, organize, and document your work.
 
 1. Load [Trello](http://trello.com) in a web browser. ![](img/trello.png)
 
