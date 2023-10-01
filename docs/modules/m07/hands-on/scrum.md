@@ -14,5 +14,9 @@ Guide](https://scrumguides.org/scrum-guide.html).
 
 ![](img/scrum.png)
 
-
+We will be following the basic principles and practices of Scrum to do the work
+required of your team project, but we won't be doing a deep dive into the
+details of the framework. We will use just enough Scrum to help us in this
+class, and your familiarity with the basic ideas will be helpful in later
+courses and when you interview for internships.
 
