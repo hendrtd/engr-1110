@@ -27,7 +27,7 @@ using it in a Team Lab Assignment.
    and planning your work.
 
 1. Click on the plus symbol (+) at the top of the screen to create a new board.
-   Name the new board "zyBook Chapter 9 Labs".  ![](img/create-board.png)
+   Name the new board "zyBook Chapter 9 Labs".
 
 1. Create three lists: Backlog, In Progress, and Done. Add a card for each
    Chapter 9 lab in the assignment to the Backlog list.
