@@ -1,4 +1,4 @@
-# Beta Release and Scrum Board
+# Project Release Beta
 
 The project beta release corresponds to an important part of the [software
 release life cycle](https://en.wikipedia.org/wiki/Software_release_life_cycle) -
