@@ -7,7 +7,7 @@ software development and project management. You and your team will use Trello
 to manage the work required for the team project in this course.
 
 This activity is designed to introduce you to Trello and to get you started
-using it in the Team Lab Assignment.
+using it in a Team Lab Assignment.
 
 1. Load [Trello](http://trello.com) in a web browser. ![](img/trello.png)
 
@@ -15,11 +15,22 @@ using it in the Team Lab Assignment.
 
 1. Name your workspace ![workspace](img/workspace.png)
 
-1. Click *Skip* to avoid signing up for Premium or the free trial. The free
-   version is all you need.
+1. Click *Skip* to avoid signing up for Premium or the free trial. **The free
+   version is all you need.**
 
 1. From the main workspace screen you can explore the template gallery to get an
    idea of the kinds of boards you can build. ![](img/home.png)
+
+1. Build a sample board and explore the different options you have for organzing
+   and planning your work.
+
+
+**You will need to be working with your team in lab to complete the remainder of
+this activity.**
+
+1. While sitting 
+
+1. Select one member of your team to complete the next steps
 
 1. Click on the plus symbol (+) at the top of the screen to create a new board.
    ![](img/create-board.png)
