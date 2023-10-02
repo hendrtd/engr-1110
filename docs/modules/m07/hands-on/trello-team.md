@@ -14,8 +14,7 @@ member logged into their Trello account.**
 
 1. Create three lists named "Backlog", "In Progress", and "Done".
 
-1. In the Backlog list, add a card for each lab below in the zyBook Chapter 10
-   assignment.
+1. In the Backlog list, add a card for each lab below from zyBook Chapter 10.
 
    - 10.8 LAB: Words in a range (lists)
    - 10.9 LAB: Word frequencies (lists)
