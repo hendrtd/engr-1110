@@ -30,8 +30,12 @@ using it to plan, organize, and document your work.
 1. Click on the plus symbol (+) at the top of the screen to create a new board.
    Name the new board "zyBook Chapter 9 Labs".
 
-1. Create three lists: Backlog, In Progress, and Done. Add a card for each
-   Chapter 9 lab in the assignment to the Backlog list.
+1. Create three lists: Backlog, In Progress, and Done. 
+
+1. Add a card for each Chapter 9 lab in the assignment to the Backlog list.
+    - 9.8 LAB: Guess the random number
+    - 9.9 LAB: Quadratic formula
+    - 9.12 LAB: Radioactive decay
 
 1. Add due dates, checklists, and other features to the card for each lab to
    help plan and schedule your work.
