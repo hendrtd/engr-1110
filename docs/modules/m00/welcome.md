@@ -11,11 +11,15 @@ development.
 
 By the end of this course, students will demonstrate an ability to:
 
-- Apply engineering design to implement and evaluate computing-based solutions
-  to problems
-- Communicate effectively in a professional context
-- Recognize ethical and professional responsibilities in engineering and
-  computing practice
-- Function effectively on a team
-- Recognize the importance of cultural intelligence in a professional context
+- Design and test a product or process according to the iterative engineering design process.
+- Communicate technical information in written and oral format.
+- Use spreadsheets to perform calculations, analyze data, and present results in graphs and tables.
+- Work effectively on a team to execute design projects.
+- Understand that effective engineering design includes consideration of ethical, global, cultural, economic, social, and environmental factors.
 
+## Outcomes Specific to CSSE Sections
+
+By the end of this course, students will demonstrate an ability to: 
+
+- Implement and evaluate computing-based solutions expressed in a programming language.
+- Recognize the importance of cultural intelligence in a professional context
