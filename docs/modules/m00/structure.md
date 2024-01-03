@@ -15,28 +15,32 @@ through the course and you'll recognize similarities to
 Scheduling, planning, and knowing when things are due are easily done with
 timeboxed modules. All graded items are scheduled to be due or delivered on
 module boundaries. Specifically, each graded item in the course is due by the
-last Friday of the module that contains it. The last Saturday and Sunday of each
-module are late days: a 25% penalty is applied to assignments turned in on
-Saturday, and a 50% penalty is applied to assignments turned in on Sunday.
+last day of the module that contains it or of a later module as specified by
+its due date. 
 
-Here is the schedule for [Fall 2022](http://www.auburn.edu/main/auweb_calendar.php)
-which includes 109 calendar days.
+Here is the schedule for [the current semester](http://www.auburn.edu/main/auweb_calendar.php).
 
-Module | Begin      | End        | Duration 
------- | ---------- | ---------- | --------   
-M0     | Tue 16 Aug | Sun 21 Aug | (6 days)  
-M1     | Mon 22 Aug | Sun 4 Sep  | (14 days)  
-M2     | Mon 5 Sep  | Sun 18 Sep | (14 days)^  
-M3     | Mon 19 Sep | Sun 2 Oct  | (14 days)  
-M4     | Mon 3 Oct  | Sun 16 Oct | (14 days)^  
-M5     | Mon 17 Oct | Sun 30 Oct | (14 days)   
-M6     | Mon 31 Oct | Sun 13 Nov | (14 days)  
-M7     | Mon 14 Nov | Fri 2 Dec  | (19 days)^     
+Module    | Dates                   | Duration 
+------    | ----------------------- | -------- 
+Module 00 | Wed 10 Jan - Sun 14 Jan | (5 days)
+Module 01 | Mon 15 Jan - Sun 21 Jan | (7 days)^  
+Module 02 | Mon 22 Jan - Sun 28 Jan | (7 days)   
+Module 03 | Mon 29 Jan - Sun 04 Feb | (7 days)  
+Module 04 | Mon 05 Feb - Sun 11 Feb | (7 days)  
+Module 05 | Mon 12 Feb - Sun 18 Feb | (7 days)  
+Module 06 | Mon 19 Feb - Sun 25 Feb | (7 days)  
+Module 07 | Mon 26 Feb - Sun 03 Mar | (7 days)  
+Module 08 | Mon 11 Mar - Sun 17 Mar | (7 days)^  
+Module 09 | Mon 18 Mar - Sun 24 Mar | (7 days)  
+Module 10 | Mon 25 Mar - Sun 31 Mar | (7 days)  
+Module 11 | Mon 01 Apr - Sun 07 Apr | (7 days)  
+Module 12 | Mon 08 Apr - Sun 14 Apr | (7 days)  
+Module 13 | Mon 15 Apr - Sun 21 Apr | (7 days)  
+Module 14 | Mon 22 Mar - Fri 26 Apr | (5 days)  
 
 ^ *University No-Class Days:*  
-- Labor Day: Mon 5 Sep  
-- Fall Break: Thu 6 Oct - Fri 7 Oct  
-- Thanksgiving: Mon 21 Nov - Fri 25 Nov  
+Mon 15 Jan, MLK Day
+Sat 02 Mar - Sun 10 Mar, Spring Break
 
 
 # Module Structure
