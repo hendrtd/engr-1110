@@ -3,7 +3,8 @@
 This course uses a custom zyBook from the *zyBooks* Wiley Brand as a required
 course resource. Payment for zyBook access is handled via the AU All Access
 program, and there is a Canvas announcement with further details about payment
-via your ebill.
+via your ebill. **Do _not_ pay for access to zyBooks via the zyBooks website
+using any personal payment method.** Payment is only via your AU eBill.
 
 To access and subscribe to the zyBook:
 
