@@ -1,6 +1,7 @@
-You must complete **and submit** the associated zyBook assignment by clicking on
-the *Load in new window* button below. To receive credit you must complete and
-submit the associated zyBook assignment by the **last day of the module**.
+You must complete **and submit** the associated zyBook assignment by clicking
+on the *Load in new window* button below. To receive credit you must complete
+and submit the associated zyBook assignment no later than the due date
+specified in Canvas.
 
 Here are a few FAQs from zyBooks that you may find helpful when completing and submitting
 zyBook assignments.
