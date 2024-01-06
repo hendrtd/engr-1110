@@ -36,7 +36,7 @@ Module 10 | Mon 25 Mar - Sun 31 Mar | (7 days)
 Module 11 | Mon 01 Apr - Sun 07 Apr | (7 days)  
 Module 12 | Mon 08 Apr - Sun 14 Apr | (7 days)  
 Module 13 | Mon 15 Apr - Sun 21 Apr | (7 days)  
-Module 14 | Mon 22 Mar - Fri 26 Apr | (5 days)  
+Module 14 | Mon 22 Apr - Fri 26 Apr | (5 days)  
 
 ^ *University No-Class Days:*  
 Mon 15 Jan, MLK Day
