@@ -160,7 +160,7 @@ the following categories.
 - **Team Project** (30%): A software development project will be assigned and must be
   completed in teams.
 
-- **Cultural Agility** (10%): Graded work focused on developing cultural
+- **Cultural Intelligence** (10%): Graded work focused on developing cultural
   competency in a professional context.
 
 - **Attendance and Engagement** (10%): Attendance is required in lecture and lab,
@@ -169,13 +169,13 @@ the following categories.
 Your total score (*Total*) for the course will be calculated as follows, where
 *PA* is the percentage of possible points earned on Programming Activities, *PL*
 is the percentage of possible points earned on Programming Labs, *TP* is the
-percentage of possible points earned on the Team Project, *CA* is the percentage
-of possible points earned on Cultural Agility, and *AE* is the percentage of
+percentage of possible points earned on the Team Project, *CI* is the percentage
+of possible points earned on Cultural Intelligence, and *AE* is the percentage of
 possible points earned on Attendance and Engagement. Each percentage is
 calculated as (*points earned* / *points possible*) * 100.
 
 
-*Total* = (0.20 * *PA*) + (0.30 * *PL*) + (0.30 * *TP*) + (0.10 * *CA*) + (0.10 * *AE*) 
+*Total* = (0.20 * *PA*) + (0.30 * *PL*) + (0.30 * *TP*) + (0.10 * *CI*) + (0.10 * *AE*) 
 
 Your letter grade for the course will be assigned based on your *Total* numeric
 score using the following scale.
