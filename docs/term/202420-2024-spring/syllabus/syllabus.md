@@ -140,8 +140,7 @@ Auburn, AL 36849
 
 TA              | Email                | Office Hours  
 ---             | -----                | ------------   
-TBD  | `TBD@auburn.edu` | TBD  
-TBD  | `TBD@auburn.edu` | TBD  
+Karen Nix  | `knn0010@auburn.edu` | TBD  
 
 
 ---
