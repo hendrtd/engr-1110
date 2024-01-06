@@ -217,7 +217,7 @@ Module 10 | Mon 25 Mar - Sun 31 Mar | Sprint 1; Cultural intelligence
 Module 11 | Mon 01 Apr - Sun 07 Apr | Sprint 2; Alpha Release; Cultural intelligence   
 Module 12 | Mon 08 Apr - Sun 14 Apr | Sprint 3; Cultural intelligence   
 Module 13 | Mon 15 Apr - Sun 21 Apr | Sprint 4; Beta Release; Cultural intelligence   
-Module 14 | Mon 22 Mar - Fri 26 Apr | Presentations   
+Module 14 | Mon 22 Apr - Fri 26 Apr | Presentations   
 
 
 
