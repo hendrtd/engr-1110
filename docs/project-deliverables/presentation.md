@@ -23,4 +23,5 @@ Other specific requirements include:
 - Each team member will receive an individual grade for the presentation, and
   this grade will be assigned per the grading rubric in Canvas.
 
+**Each team member must upload the same deliverable for the Project Presentation.**
 
