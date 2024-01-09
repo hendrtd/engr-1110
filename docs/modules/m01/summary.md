@@ -1,7 +1,8 @@
 # Reflecting on the Module
 
-This module has introduced introductory concepts in programming and in cultural
-intelligence. Take time now to review and reflect on this module and the work you've done.
+This module has introduced introductory concepts in programming and
+spreadsheets. Take time now to review and reflect on this module and the work
+you've done.
 
 - What did you learn?
 - How might this help you in upcoming modules?
