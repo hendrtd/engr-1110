@@ -18,10 +18,9 @@ ENGR 1110 is a combined lecture/lab course that meets for 50 minutes each week
 in lecture and for 150 minutes each week in lab. Lecture meets from 8:00 AM -
 8:50 AM MWF in Shelby 1103, and labs meet from 9:00 AM - 9:50 AM MWF in the
 Shelby computer lab assigned to your particular course section. There are 2
-sections of the course, and they meet together for lecture but separately for
-lab. Be sure to check Tiger Scheduler to confirm the course section for which
-you are registered, since Canvas can make it appear (incorrectly) that everyone
-is in the same section of the course. 
+sections of the course, and they meet together for lecture and (this semester)
+also together for lab. There will be a separate Canvas announcement about lab
+meetings.
 
 Remember: You'll have work to do in Canvas beginning January 10, but we won't
 meet together as a class until the labs on Wednesday, January 17.
@@ -36,5 +35,4 @@ See you soon, and War Eagle!
 > Auburn University, Auburn, AL 36849  
 > 334-844-6305, dean.hendrix@auburn.edu  
 
-<img src="../../../img/rags.jpg" width="100">
 
