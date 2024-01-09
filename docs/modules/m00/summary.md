@@ -1,7 +1,8 @@
 # Reflecting on the Module
 
-This module has provided an overview of the course and asked you to take some
-getting-started steps.
+This module has provided an overview of the course, asked you to take some
+getting-started steps, and introduced spreadsheets and the programming language
+Python.
 
 Take time now to review and reflect on this module and the work you've done.
 
