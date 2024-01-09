@@ -202,16 +202,16 @@ boxing](https://en.wikipedia.org/wiki/Timeboxing) principles as follows.
 
 Module    | Dates                   | Content    
 ------    | ----------------------- | -------- 
-Module 00 | Wed 10 Jan - Sun 14 Jan | Getting started in Canvas; zyBook Spreadsheets open   
-Module 01 | Mon 15 Jan - Sun 21 Jan | Getting started in lab; zyBook Spreadsheets; zyBook Python 1
-Module 02 | Mon 22 Jan - Sun 28 Jan | zyBook Python 2 & 3  
-Module 03 | Mon 29 Jan - Sun 04 Feb | Teams assigned; zyBook Python 4 
-Module 04 | Mon 05 Feb - Sun 11 Feb | Project description; zyBook Python 5
-Module 05 | Mon 12 Feb - Sun 18 Feb | Engineering design; Scrum; zyBook Python 6
-Module 06 | Mon 19 Feb - Sun 25 Feb | Scrum; zyBook Python 6
-Module 07 | Mon 26 Feb - Sun 03 Mar | Project planning; zyBook Python 7 & 8
-Module 08 | Mon 11 Mar - Sun 17 Mar | Project Concept; zyBook Python 9 & 10
-Module 09 | Mon 18 Mar - Sun 24 Mar | Project planning; zyBook Python 11
+Module 00 | Wed 10 Jan - Sun 14 Jan | Getting started in Canvas; Introduction to Spreadsheets, Python   
+Module 01 | Mon 15 Jan - Sun 21 Jan | Getting started in lab; Introduction to Spreadsheets, Python   
+Module 02 | Mon 22 Jan - Sun 28 Jan | Python variables, expressions, and types   
+Module 03 | Mon 29 Jan - Sun 04 Feb | Teams assigned; Python branching    
+Module 04 | Mon 05 Feb - Sun 11 Feb | Project description; Python loops   
+Module 05 | Mon 12 Feb - Sun 18 Feb | Engineering design; Scrum; Python functions   
+Module 06 | Mon 19 Feb - Sun 25 Feb | Scrum; Python strings   
+Module 07 | Mon 26 Feb - Sun 03 Mar | Project planning; Python lists, dictionaries, and modules   
+Module 08 | Mon 11 Mar - Sun 17 Mar | Project Concept; Python files and plotting   
+Module 09 | Mon 18 Mar - Sun 24 Mar | Project planning; Python for data science   
 Module 10 | Mon 25 Mar - Sun 31 Mar | Sprint 1; Cultural intelligence   
 Module 11 | Mon 01 Apr - Sun 07 Apr | Sprint 2; Alpha Release; Cultural intelligence   
 Module 12 | Mon 08 Apr - Sun 14 Apr | Sprint 3; Cultural intelligence   
