@@ -26,12 +26,7 @@ Auburn, AL 36849
 
 GTA | Email | Office Hours | Zoom ID 
 --- | ----- | ------------ | -------
-Karen Nix | `knn0010@auburn.edu` | TBD | TBD  
+Karen Nix | `knn0010@auburn.edu` | F 9:00 AM - 9:50 AM | Shelby 2210   
 
-
-All TA office hours are via Zoom. Zoom Meeting IDs can be entered directly in
-the Zoom app or used in place of `meetingid` in the URL
-`https://auburn.zoom.us/j/meetingid` Three lab sessions per week are available
-for in-person consultations with your TA.
-
+TA office hours are in the lab unless otherwise specified.
 

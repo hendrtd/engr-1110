@@ -140,7 +140,9 @@ Auburn, AL 36849
 
 TA              | Email                | Office Hours  
 ---             | -----                | ------------   
-Karen Nix  | `knn0010@auburn.edu` | TBD  
+Karen Nix       | `knn0010@auburn.edu` | F 9:00 AM - 9:50 AM   
+
+TA office hours are in the lab unless otherwise specified.
 
 
 ---
