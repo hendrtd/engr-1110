@@ -68,6 +68,6 @@ of this course.
 
 Notice the iterative nature of the items in the *Work & Learn*
 [swimlane](https://en.wikipedia.org/wiki/Swim_lane). Start each module when it
-opens rather than putting things off, as it will likely take you the full two
-weeks to complete all the work.
+opens rather than putting things off, as it will likely take you the full time
+to complete all the work.
 
