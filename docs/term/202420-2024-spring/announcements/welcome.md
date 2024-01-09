@@ -16,7 +16,7 @@ you for a deeper dive into these topics later in your curriculum.
 
 ENGR 1110 is a combined lecture/lab course that meets for 50 minutes each week
 in lecture and for 150 minutes each week in lab. Lecture meets from 8:00 AM -
-8:50 AM MWF in Shelby 1103, and labs meet from 9:00 AM - 9:50 AM MWF in the
+8:50 AM Mondays in Shelby 1103, and labs meet from 9:00 AM - 9:50 AM MWF in the
 Shelby computer lab assigned to your particular course section. There are 2
 sections of the course, and they meet together for lecture and (this semester)
 also together for lab. There will be a separate Canvas announcement about lab
