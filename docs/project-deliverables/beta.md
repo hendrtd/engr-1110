@@ -14,6 +14,8 @@ developed, and thus the team scrum board (Trello) is also evaluated as part of
 this project milestone.
 
 Your team's beta release and scrum board will be evaluated according the rubric
-below (to be published).
+below.
+
+**Each team member must upload the same URL for the Project Beta.**
 
 
