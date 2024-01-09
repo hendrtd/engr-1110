@@ -1,9 +1,9 @@
 # References & Resources
 
-- Chapters 1, 2, and 3 of the course zyBook (accessible via zyBook link in
-  Canvas).
+- zyBook Chapter 1: Spreadsheets (accessible via zyBook link in Canvas)
 
-- Chapters 1, 2, and 3 of the Livermore eText (accessible via RedShelf link in
-  Canvas)
+- zyBook Chapter 2: Introduction to Python (accessible via zyBook link in Canvas)
+
+- Module 1 Lecture Notes
 
 
