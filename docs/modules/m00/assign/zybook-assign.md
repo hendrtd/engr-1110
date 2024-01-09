@@ -1,6 +1,6 @@
 # zyBook Activity: Spreadsheets
 
-Data informs and drives both advancement and just everyday work in modern
+Data informs and drives both the advancement and everyday work in modern
 computing and engineering. **Spreadsheets** are one of the most ubiquitous and
 useful tools for recording, managing, exploring, and learning from data. There
 are several popular spreadsheet tools, like Microsoft Excel, Google Sheets,
