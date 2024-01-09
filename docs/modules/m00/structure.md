@@ -1,11 +1,11 @@
 # Course Structure
 
-This course is organized into eight modules numbered
+This course is organized into 15 modules numbered
 [zero](https://www.cs.utexas.edu/users/EWD/transcriptions/EWD08xx/EWD831.html)
-through seven. Module 0 is an introductory "getting started" module, while
-Module 1 through Module 7 are course-content modules. Rather than being
+through 14. Module 0 is mostly an introductory "getting started" module, while
+Module 1 through Module 14 are full course-content modules. Rather than being
 organized strictly by content, these modules are
-[timeboxed](https://en.wikipedia.org/wiki/Timeboxing); that is, M1 -- M7 are of
+[timeboxed](https://en.wikipedia.org/wiki/Timeboxing); that is, M1 -- M14 are of
 fixed, equal durations with specific tasks to be completed within each. We will
 become familiar with [agile
 methods](https://en.wikipedia.org/wiki/Agile_software_development), as we go
@@ -15,8 +15,8 @@ through the course and you'll recognize similarities to
 Scheduling, planning, and knowing when things are due are easily done with
 timeboxed modules. All graded items are scheduled to be due or delivered on
 module boundaries. Specifically, each graded item in the course is due by the
-last day of the module that contains it or of a later module as specified by
-its due date. 
+last day of the module that contains it or the last day of a later module as
+specified by its due date. 
 
 Here is the schedule for [the current semester](http://www.auburn.edu/main/auweb_calendar.php).
 
@@ -45,7 +45,7 @@ Sat 02 Mar - Sun 10 Mar, Spring Break
 
 # Module Structure
 
-Each of the seven content modules has the same structure with the following
+Each of the 14 content modules has the same structure with the following
 components.
 
 - **Module Overview:** A brief introduction to the module content.
