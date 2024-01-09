@@ -13,6 +13,8 @@ what has been developed, and thus the team scrum board (Trello) is also
 evaluated as part of this project milestone.
 
 Your team's alpha release and scrum board will be evaluated according the rubric
-below (to be published).
+below.
+
+**Each team member must submit the same URL for the Project Alpha.**
 
 
