@@ -26,3 +26,5 @@ yourself, and prepare to have all graded work completed by the stated due date.
 
 Good luck, and have fun in the module!
 
+<img src="../../img/rags.jpg" width="100">
+
