@@ -41,3 +41,7 @@ interests and goals.
 comfort zone, take on new responsibilities, and do new things. This is a great
 way to increase self-confidence and self-awareness.
 
+To learn more and jump in online, join the AU ACM Discord at [https://discord.gg/jPNfTBuKX7](https://discord.gg/jPNfTBuKX7).
+
+
+
