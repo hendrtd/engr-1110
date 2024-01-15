@@ -1,3 +1,11 @@
+# Accessing zyBooks
+
+You will access the course zyBook **through Canvas** by clicking on the "Load
+in a new window" button at the bottom of a graded item that uses zyBooks. The
+first time that you access zyBooks (in Module 0), your zyBook account is linked
+with your Canvas account, allowing grade information to be passed back to
+Canvas as you complete work in the zyBook.
+
 # Paying for the course zyBook - AU All Access
 
 Payment for the course zyBook is handled through the Auburn University **All
