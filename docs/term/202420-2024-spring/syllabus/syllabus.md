@@ -24,8 +24,8 @@ Section | Day | Time | Location | Staff
 
 Section   | Day  | Time | Location | Staff  
 -------   | ---  | ---- | -------- | -----  
-005       | MWF  | 9:00 AM - 9:50 AM | Shelby 2205 | TBA   
-006       | MWF  | 9:00 AM - 9:50 AM | Shelby 2210 | TBA   
+005       | MWF  | 9:00 AM - 9:50 AM | Shelby 2205 | Karen Nix   
+006       | MWF  | 9:00 AM - 9:50 AM | Shelby 2205 | Karen Nix   
 
 # Instructional Mode
 
