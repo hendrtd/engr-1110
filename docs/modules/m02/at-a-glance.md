@@ -23,4 +23,5 @@ following concepts in Python.
 - Expressions
 - Assignment
 - The `Math` module and random numbers
+- Strings, lists, tuples, sets, and dictionaries
 
