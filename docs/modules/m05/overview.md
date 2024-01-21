@@ -1,7 +1,8 @@
-# Files, Simple Data Analysis, and Plotting in Python
+# Using Lists, Dictionaries, and Modules in Python
 
 This module continues to introduce fundamental concepts in programming, and
-focuses on files, data analysis, and plotting in Python. You will continue to
-work with your Project Team as well as continue the exploration of Cultural
-Intelligence and its importance to practicing engineers.
+focuses on lists, dictionaries, and modules in Python. The first Project
+assignments are also in this module, in which you will start to work with your
+team to collectively complete work. This module also continues the exploration
+of Cultural Intelligence and its importance to practicing engineers.
 
