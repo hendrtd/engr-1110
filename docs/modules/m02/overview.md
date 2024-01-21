@@ -1,8 +1,7 @@
-# Introduction to Programming and Cultural Intelligence
+# Python Fundamentals - Variables, Expressions, and Types 
 
 This module continues to introduce fundamental concepts in programming, and
-focuses on decision and iteration control structures in Python. You will learn
-to base  program actions on decisions and conditions as well as to have programs
-take repeated actions. This module also continues the exploration of Cultural
-Intelligence and its importance to practicing engineers.
+continues emphasizing the importance of data as we transition from storing,
+processing, and analyzing data in a spreadsheet to learning how to store,
+process, and analyze data in a programming language - Python in our case.
 
