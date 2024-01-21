@@ -15,8 +15,12 @@ proactive. These are good strategies for success.
 
 # Module Objectives
 
-- Understand fundamentals of decision and iteration control strucures.
-- Write intermediate programs in Python.
-- Understand fundamental ideas of cultural intelligence.
+At the end of this module you should be able to understand and apply the
+following concepts in Python.
 
+- Variables and identifiers
+- Data types
+- Expressions
+- Assignment
+- The `Math` module and random numbers
 
