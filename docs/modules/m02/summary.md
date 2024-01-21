@@ -1,7 +1,10 @@
 # Reflecting on the Module
 
-This module has continued the development of introductory programming concepts
-and the ideas of cultural intelligence. Take time now to review and reflect on
+This module has continued the development of introductory programming concepts,
+with a focus on variables, expressions, and data types, including numeric types
+and structured types such as strings, lists, tuples, sets, and dictionaries.
+
+Take time now to review and reflect on
 this module and the work you've done.
 
 - What did you learn?
