@@ -1,7 +1,9 @@
 # Reflecting on the Module
 
-This module has continued the development of introductory programming concepts
-and the ideas of cultural intelligence. Take time now to review and reflect on
+This module has continued the development of introductory programming concepts,
+with a focus on branching in Python.
+
+Take time now to review and reflect on
 this module and the work you've done.
 
 - What did you learn?
@@ -15,3 +17,4 @@ Taking time to
 [reflect on your experience](https://en.wikipedia.org/wiki/Reflective_practice), rather than
 just moving on, can be an important part of learning and getting better - not
 just in school, but on the job and in life.
+
