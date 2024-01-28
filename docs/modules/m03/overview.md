@@ -1,8 +1,7 @@
-# Introduction to Programming and Cultural Intelligence
+# Python Fundamentals - Branching
 
 This module continues to introduce fundamental concepts in programming, and
-focuses on decision and iteration control structures in Python. You will learn
-to base  program actions on decisions and conditions as well as to have programs
-take repeated actions. This module also continues the exploration of Cultural
-Intelligence and its importance to practicing engineers.
+focuses on **branching** - the ability to specify a particular action among
+different alternatives based on the outcome of a decision or the evaluation of
+a condition. 
 
