@@ -15,10 +15,16 @@ proactive. These are good strategies for success.
 
 # Module Objectives
 
-- Understand function execution in Python and why they are used.
-- Write simple functions in Python.
-- Understand, manipulate, and apply strings in Python.
-- Write intermediate programs in Python.
-- Understand fundamental ideas of cultural intelligence.
+At the end of this module you should be able to understand and apply the
+following concepts in Python.
 
+- `if` statements
+- `if-else` statements
+- `if-elif` statements
+- Conditional expressions
+- Boolean expressions
+- Comparisons among types 
+- Membership and identify operators
+- Order of operations
+- Code blocks and indentation
 
