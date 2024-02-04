@@ -6,7 +6,9 @@
 A team project is an integral part of ENGR 1110 and it is designed to enable
 each member of the team to:
 
-- apply Python programming skills 
+- apply Python programming skills
+- apply spreadsheet skills
+- learn to work with Google Colab notebooks
 - learn to work within the context of an authentic software process similar to
   one used in industry
 - develop teamwork skills
@@ -15,15 +17,24 @@ each member of the team to:
   appropriate learning strategies
 - learn presentation skills and the use of organizational tools
 
-The theme for this semester's project is *Visualizing Global Issues*. Working in
-a team of four to six students, you are required to propose, design, implement,
-and deliver a data visualization and analytics project to address real-world
-problems. The visualizations and analytics elements can be embedded in a
-software user interface that your team builds, or they can be embedded within
-reports and presentations you create with general tools such as Microsoft Word
-and PowerPoint, Google Docs and Slides, and other options.
+The theme for this semester's project is **Data Driven Exploration of Global
+Issues**. Working in a team of four to six students, you are required to
+propose, design, implement, and deliver a data visualization and analytics
+project to characterize and describe a real-world problem. Your team's project
+must be built from different components developed by individual team members
+and then assembled into a single Google Colab notebook that integrates prose,
+Python code, and data visualizations into a cohesive whole. 
 
-The project must address a real-world problem such as:
+Here are two example Google Colab Notebooks, just to illustrate how a Colab
+notebook is a powerful and effective means of combining discussion, analysis,
+data, and computation. Neither are intended as an example that you must
+emulate.
+
+- [Collapse of SVB (Silicon Valley Bank)](https://colab.research.google.com/drive/15uxrAeCCL327kWH9N0X-ogKwf2zErjP5)
+- [Exploratory Data Analysis in Python](https://colab.research.google.com/github/Tanu-N-Prabhu/Python/blob/master/Exploratory_data_Analysis.ipynb) 
+
+
+Your team's project must address a real-world, global-scale problem such as:
 
 - **Poverty** - Analyze data on poverty rates, income inequality, and access to
   basic necessities to understand the challenges faced by different populations.
@@ -40,9 +51,8 @@ The project must address a real-world problem such as:
   Here is an example resource for Haiti:
   [https://www.kaggle.com/datasets/thedevastator/haiti-health-facilities-locations](https://www.kaggle.com/datasets/thedevastator/haiti-health-facilities-locations)
 
-These are just examples, and your team is free to propose any reasonable project
-focus that falls within the overall theme for the semester of *Visualizing
-Global Issues*.
+These are just examples, and your team is free to propose any reasonable
+project that falls within the overall theme for the semester.
 
 Here are a few freely accessible datasets that you may find useful.
 
@@ -65,7 +75,7 @@ team must be properly attributed and comply with all copyright laws.
   issues characterized by the data. See Chapter 11 of the course zyBook for
   information on using `matplotlib`.
 
-- **Trend Analysis and Statistics**: The `numpy` library offers a a range of
+- **Trend Analysis and Statistics**: The `numpy` library offers a range of
   functionalities that can be used to identify trends, patterns and statistics,
   within the datasets.  By applying statistical methods such as mean, median,
   standard, deviation, and correlation, we can gain insights into the
@@ -80,6 +90,7 @@ team must be properly attributed and comply with all copyright laws.
 Your project must meet the following minimum requirements:
 
 - Use Python 3 and an appropriate package such as Matplotlib, NumPy, or Pandas.
+- Incorporate the use of a spreadsheet in a meaningful way.
 - Use a real-world dataset.
 - Create visualizations and analysis from Python code.
 - Visualize data in a meaningful way (identify patterns/trends, provide
@@ -104,16 +115,16 @@ something that excites you! Impress us!
 
 Deliverable | Points | Due Date   
 ----------- | ------ | --------   
-Concept      | 100    | Oct 15   
-Alpha        | 100    | Oct 29  
-Beta         | 100    | Nov 12  
-Presentation | 100    | Nov 19  
+Concept      | 100    | Mar 17   
+Alpha        | 100    | Apr 07  
+Beta         | 100    | Apr 21  
+Presentation | 100    | Apr 22, 24  
 
 
 
 
-[Author]: <> (Karen Nix)
+[Original Author]: <> (Karen Nix)
 
-[Edits]: <> (Dean Hendrix)
+[Editor and Subsequent Author]: <> (Dean Hendrix)
 
 
