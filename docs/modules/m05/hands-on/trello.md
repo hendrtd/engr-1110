@@ -24,32 +24,9 @@ using it to plan, organize, and document your work.
 
 1. Use the Workspace Settings menu to make your workspace **Public**.
 
-1. Build a sample board and explore the different options you have for organzing
+1. Build a sample board and explore the different options you have for organizing
    and planning your work.
 
-1. Click on the plus symbol (+) at the top of the screen to create a new board.
-   Name the new board "zyBook Chapter 9 Labs".
-
-1. Create three lists: Backlog, In Progress, and Done. 
-
-1. Add a card for each Chapter 9 lab in the assignment to the Backlog list.
-    - 9.8 LAB: Guess the random number
-    - 9.9 LAB: Quadratic formula
-    - 9.12 LAB: Radioactive decay
-
-1. Add due dates, checklists, and other features to the card for each lab to
-   help plan and schedule your work.
-
-1. Move each card to "In Progress" as you begin working on that lab, and then
-   move the card to "Done" once you've earned full points.
-
-1. Continue to use the board to document your progress toward the completion of
-   the assignment.
-
-1. Once you have completed the assignment and documented your work in the Trello
-   board, click the Share button in the top-right of the Trello interface and
-   select "Copy link". 
-   ![](img/share.png)
-
-1. Record this link as the required submission to this assignment.
+Be sure to spend some time familiarizing yourself with Trello, and discuss with
+your team how Trello can be used once you begin your project work.
 
