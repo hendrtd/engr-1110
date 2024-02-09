@@ -1,8 +1,9 @@
-# Using Lists, Dictionaries, and Modules in Python
+# Python Fundamentals - Functions; Engineering Design, Scrum, and Trello
 
 This module continues to introduce fundamental concepts in programming, and
-focuses on lists, dictionaries, and modules in Python. The first Project
-assignments are also in this module, in which you will start to work with your
-team to collectively complete work. This module also continues the exploration
-of Cultural Intelligence and its importance to practicing engineers.
+focuses on **functions** - a language feature that allows us to encapsulate a
+set of statements into one unit and then *call* or *invoke* the function to
+have those statements executed from any point in our program and as many times
+as needed. Functions are a fundamental way of organizing our code into
+meaningful and related components.
 
