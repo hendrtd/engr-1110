@@ -1,5 +1,7 @@
 # References & Resources
 
+- [Lecture Notes](notes/m05lecture.pdf)
+
 - Chapter 7 of the course zyBook (accessible via zyBook link in
   Canvas).
 
