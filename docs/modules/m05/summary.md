@@ -2,7 +2,7 @@
 
 This module has continued the development of introductory programming concepts,
 with a focus on functions in Python. This module has also introduced ideas in
-engineering design and process, with a focus on the SScrum framework for agile
+engineering design and process, with a focus on the Scrum framework for agile
 development.
 
 Take time now to review and reflect on
