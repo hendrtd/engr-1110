@@ -1,4 +1,4 @@
-# Python Fundamentals - Functions; Engineering Design, Scrum, and Trello
+# Python Functions, Engineering Design, Scrum, and Trello
 
 This module continues to introduce fundamental concepts in programming, and
 focuses on **functions** - a language feature that allows us to encapsulate a
