@@ -23,3 +23,12 @@ By the end of this course, students will demonstrate an ability to:
 
 - Implement and evaluate computing-based solutions expressed in a programming language.
 - Recognize the importance of cultural intelligence in a professional context
+
+
+## Course Overview Notes
+
+Here is link to a slide set that provides an overview of this semester's course offering.
+
+- [Lecture Notes](notes/m00lecture.pdf)
+
+
