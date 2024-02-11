@@ -12,13 +12,29 @@ don't understand something or have a question, it is crucial that you reach out
 for help sooner rather than later. Ask questions, engage with the class, and be
 proactive. These are good strategies for success.
 
-
 # Module Objectives
 
-- Understand, manipulate, and apply files in Python.
-- Understand apply simple data analysis and plotting in Python.
-- Write intermediate programs in Python.
-- Work together as a team to complete an assignment.
-- Understand fundamental ideas of cultural intelligence.
+At the end of this module you should be able to understand and apply the
+following concepts in Python:
+
+- Reasons for functions
+- Function stubs
+- Incremental programming with functions
+- Dynamic typing
+- Print functions and mathematical functions
+- Functions and control structures
+- Functions and scope
+- Function arguments and parameters 
+- Functions as objects 
+- Functions with multiple results
+- Using docstrings and `help()`
+
+At the end of this module you should be able to understand and apply the
+following concepts from engineering design and the Scrum framework.
+
+- General steps in an engineering process
+- Contrast between heavyweight processes and agile methods
+- Concepts and elements of Scrum 
+- Concepts and elements of process support tools like Trello and Kanban boards
 
 
