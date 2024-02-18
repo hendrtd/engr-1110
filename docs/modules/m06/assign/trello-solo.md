@@ -33,8 +33,7 @@ work.
 
 1. Once you have completed the assignment and documented your work in the Trello
    board, click the Share button in the top-right of the Trello interface and
-   select "Copy link". 
-   ![](img/share.png)
+   select "Copy link".  ![](img/share.png)
 
 1. Record this link as the required submission to this assignment.
 
