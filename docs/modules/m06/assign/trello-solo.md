@@ -1,7 +1,7 @@
 # Using Trello to Manage Individual Work
 
 This assignment requires you to use Trello to plan, organize, and document your
-work.
+work. **This is an INDIVIDUAL assignment, not a team assignment.**
 
 1. Load [Trello](http://trello.com) in a web browser and log in to your account. ![](img/trello.png)
 
