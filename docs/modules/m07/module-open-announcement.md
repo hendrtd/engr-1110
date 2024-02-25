@@ -1,4 +1,4 @@
-# Module 6 Announcements
+# Module 7 Announcements
 
 Here are a few things to keep in mind as you begin this module.
 
@@ -14,8 +14,9 @@ to go through the material, be sure to work on the course each day, pace
 yourself, and prepare to have all graded work completed by the end of the
 module.
 
-- Continue to discuss project ideas with your team and start working toward
-concrete ideas and how you will achieve them.
+- You will work with your team to start making concrete plans for your project
+work. You will need to solidify your overall plans and ideas for the project,
+and start drafting the Project Concept.
 
 - To prepare for working as a team for the project and to practice using Trello
 to plan, manage, and document your work, you will use Trello to complete a
