@@ -1,7 +1,7 @@
 # Reflecting on the Module
 
 This module has continued the development of introductory programming concepts,
-with a focus on functions in Python. This module has expanded on ideas in
+with a focus on strings in Python. This module has expanded on ideas in
 engineering design and process, with a focus on the Scrum framework for agile
 development.
 
