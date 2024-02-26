@@ -18,15 +18,15 @@ each member logged into their Trello account.**
 
     - 9.16 LAB: Varied amount of input data
     - 9.17 LAB: Filter and sort a list 
-    - 9.19 LAB: Contact list 
-    - 9.20 LAB: Car wash
+    - 9.18 LAB: Contact list 
+    - 9.19 LAB: Car wash
 
 1. In the Backlog list, add a card for each lab below from zyBook Chapter 10.
 
     - 10.8 LAB: Guess the random number
     - 10.9 LAB: Quadratic forumula
-    - 10.11 LAB: Dates 
-    - 10.12 LAB: Radioactive decay 
+    - 10.10 LAB: Dates 
+    - 10.11 LAB: Radioactive decay 
 
 1. Add exactly one member to each card from Chapter 9, and then add exactly one
    member to each card from Chapter 10. This assigns the **responsibility** of
