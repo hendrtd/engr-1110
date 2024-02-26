@@ -1,8 +1,8 @@
 # References & Resources
 
-- [Lecture Notes](notes/m06lecture.pdf)
+- [Lecture Notes](notes/m07lecture.pdf)
 
-- Chapter 8 of the course zyBook (accessible via zyBook link in
+- Chapters 9 and 10 of the course zyBook (accessible via zyBook link in
   Canvas).
 
 - Python Software Foundation: [https://python.org/](https://python.org/)
