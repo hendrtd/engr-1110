@@ -17,10 +17,17 @@ proactive. These are good strategies for success.
 At the end of this module you should be able to understand and apply the
 following concepts in Python:
 
-- String slicing
-- Advanced string formatting
-- String methods
-- Splitting and joining strings
+- Lists and list methods
+- Iterating over a list
+- List nesting
+- List slicing
+- Modifying lists 
+- List comprehensions 
+- Sorting lists 
+- Command line arguments 
+- Dictionaries and dictionary methods
+- Iterating over dictionaries 
+- Dictionary nesting 
 
 At the end of this module you should be able to understand and apply the
 following concepts from the Scrum framework.
