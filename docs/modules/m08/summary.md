@@ -1,11 +1,10 @@
 # Reflecting on the Module
 
 This module has continued the development of programming concepts with a focus
-on files and plotting in Python, and introduced the Google Colab service for
-Jupyter Notebooks as a means of publishing data analysis solutions in Python.
-This module has also continued to emphasize using the Scrum framework to get
-work done as a team, and utilizing Trello to plan and document your development
-work. 
+on files and plotting in Python, and introduced Google Colab as a means of
+publishing data analysis solutions in Python. This module has also continued to
+emphasize using the Scrum framework to get work done as a team, and utilizing
+Trello to plan and document your development work. 
 
 Take time now to review and reflect on this module and the work you've done.
 

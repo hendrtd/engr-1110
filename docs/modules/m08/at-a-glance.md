@@ -25,7 +25,7 @@ following concepts in Python:
 - Command line arguments and files 
 
 At the end of this module you should be able to understand and apply the
-following concepts from the Google Colab implementation of Jupyter Notebooks:
+following concepts from Google Colab:
 
 - Creating new Colab notebooks hosted in Google Cloud
 - Adding formatted text blocks using Markdown in a Colab notebook
