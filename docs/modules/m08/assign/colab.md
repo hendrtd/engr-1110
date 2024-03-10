@@ -10,7 +10,7 @@ responsible for completing this assignment and submitting their own solution.
 
 ## Colab Overview
 
-1. If you do not have a Google account already, create one at the following
+1. If you don't have a Google account already, create one at the following
    link.
    - [https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp)
 
@@ -25,6 +25,7 @@ responsible for completing this assignment and submitting their own solution.
 
 You must create a Colab notebook to perform the data analysis shown in the
 graph below, and similar to the one shown in Chapter 12 of the course zyBook.
+Follow each step below to ensure that you create the expected Colab notebook.
 
 ![](img/plot.png)
 
@@ -60,9 +61,9 @@ graph below, and similar to the one shown in Chapter 12 of the course zyBook.
 
 1. Click *+Text* and enter the following in the resulting text cell.
     ```
-    Data for this project is adapted from [http://www.alcoholalert.com/drunk-driving-statistics.html](http://www.alcoholalert.com/drunk-driving-statistics.html). 
-
-    Download a CSV file with data for 1970 through 2012:
+    Use the [curl](https://en.wikipedia.org/wiki/CURL) command line tool to download a CSV file with data for 1970 through 2012.
+    
+    *Data for this project is adapted from [http://www.alcoholalert.com/drunk-driving-statistics.html](http://www.alcoholalert.com/drunk-driving-statistics.html).* 
     ```
 
 1. Click *+Code*, enter the following command, and then click the *Run* button
@@ -71,8 +72,67 @@ graph below, and similar to the one shown in Chapter 12 of the course zyBook.
     !curl https://raw.githubusercontent.com/hendrtd/engr-1110/main/docs/data/dd_stats.csv --output dd_stats.csv
     ```
 
-1. Continue adding code and text cells to finish creating the rest of the
-    notebook at the link below.
+1. Click *+Text* and enter the following in the resulting text cell.
+    ```
+    Read the data from the downloaded file.
+    ```
+
+1. Click *+Code*, enter the following command, and then click the *Run* button
+   to execute.
+    ```
+    with open('dd_stats.csv') as f:
+    total_fatalities = []
+    alcohol_fatalities = []
+    for line in f:
+        total, alcohol = line.split(',')
+        total_fatalities.append(int(total))
+        alcohol_fatalities.append(int(alcohol))
+    ```
+
+1. Click *+Text* and enter the following in the resulting text cell.
+    ```
+    Plot the data:
+    ```
+
+1. Click *+Code*, enter the following command, and then click the *Run* button
+   to execute.
+    ```
+    years = range(1970, 2012)
+    plt.plot(years, total_fatalities, label="Total")
+    plt.plot(years, alcohol_fatalities, label="Alcohol-related")
+
+    plt.xlabel('Year')
+    plt.ylabel('Number of highway fatalities')
+    plt.legend(shadow=True, loc="upper right")
+
+    # Add plot title
+    plt.title("Alcohol related fatalities on highways")
+
+    # Add text giving x,y coordinates of the plot
+    plt.text(1970.5, 11000, 'Fatalities spike\n in 1970s', color='grey', fontsize=12)
+
+    # Add a vertical line at x-coordinate 1980
+    plt.axvline(1980, color='grey')
+
+    # Add annotation
+    arrow_properties = {
+        'facecolor': 'black',
+        'shrink': 0.1,
+        'headlength': 10,
+        'width': 2
+    }
+
+    plt.annotate('Drinking age changed to 21',
+                 xy=(1984, 24762),
+                 xytext=(1986, 30000),
+                 arrowprops=arrow_properties)
+
+    plt.show()
+    ```
+
+
+
+1. Compare your notebook to the one below. Make any corrections to your notebook to ensure it matches this provided sample.
     - [https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing](https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing)
 
 
