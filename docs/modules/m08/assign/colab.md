@@ -130,7 +130,10 @@ Follow each step below to ensure that you create the expected Colab notebook.
     plt.show()
     ```
 
-
+1. Click *+Text* and enter the following in the resulting text cell.
+    ```
+    **Acknowledgment:** This notebook is an adaptation of an exercise in a custom [zyBook](zybook.com) for ENGR 1110 Introduction to Software Engineering (zyBook ISBN: 978-1-394-14295-8). [Author Team](https://www.zybooks.com/authoring-team/)
+    ```
 
 1. Compare your notebook to the one below. Make any corrections to your notebook to ensure it matches this provided sample.
     - [https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing](https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing)
