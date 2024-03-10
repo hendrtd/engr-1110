@@ -147,6 +147,6 @@ Follow each step below to ensure that you create the expected Colab notebook.
 
 1. Click the **Copy Link** button.
 
-1. Use the link you just copied as the submission to this assignment in Canvas.
+1. Use the link you just copied as the submission to this assignment in Canvas. **IMPORTANT:** You are only allowed one submission for this assignment, so be sure that your Colab is exactly what you want graded before submitting.
 
 
