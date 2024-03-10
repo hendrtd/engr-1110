@@ -39,7 +39,6 @@ graph below, and similar to the one shown in Chapter 12 of the course zyBook.
    existing code cell that was already in the notebook.
 
 1. Double-click the text cell and enter the following:
-
 ```
 # Alcohol Fatalities 1970 - 2012
 
@@ -48,7 +47,6 @@ involving alcohol from 1970 through 2012.
 ```
 
 1. Click *+Text* and enter the following in the resulting text cell.
-
 ```
 Import a Python library for plotting:
 ```
@@ -56,7 +54,6 @@ Import a Python library for plotting:
 1. Click *+Code* and enter the following in the resulting code cell. After
    entering the Python `import` statement, click the ">" *Run* button at the
    right of the code cell to execute this statement.
-   
 ```python
 import matplotlib.pyplot as plt
 ```
