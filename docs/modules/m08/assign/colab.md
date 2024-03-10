@@ -39,12 +39,12 @@ graph below, and similar to the one shown in Chapter 12 of the course zyBook.
    existing code cell that was already in the notebook.
 
 1. Double-click the text cell and enter the following:
-```
-# Alcohol Fatalities 1970 - 2012
+    ```
+    # Alcohol Fatalities 1970 - 2012
 
-This notebook will compare the trend in total highway fatalities to those
-involving alcohol from 1970 through 2012.
-```
+    This notebook will compare the trend in total highway fatalities to those
+    involving alcohol from 1970 through 2012.
+    ```
 
 1. Click *+Text* and enter the following in the resulting text cell.
 ```
