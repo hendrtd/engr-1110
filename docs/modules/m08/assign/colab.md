@@ -47,31 +47,29 @@ graph below, and similar to the one shown in Chapter 12 of the course zyBook.
     ```
 
 1. Click *+Text* and enter the following in the resulting text cell.
-```
-Import a Python library for plotting:
-```
+    ```
+    Import a Python library for plotting:
+    ```
 
 1. Click *+Code* and enter the following in the resulting code cell. After
    entering the Python `import` statement, click the ">" *Run* button at the
    right of the code cell to execute this statement.
-```python
-import matplotlib.pyplot as plt
-```
+    ```python
+    import matplotlib.pyplot as plt
+    ```
 
 1. Click *+Text* and enter the following in the resulting text cell.
+    ```
+    Data for this project is adapted from [http://www.alcoholalert.com/drunk-driving-statistics.html](http://www.alcoholalert.com/drunk-driving-statistics.html). 
 
-```
-Data for this project is adapted from [http://www.alcoholalert.com/drunk-driving-statistics.html](http://www.alcoholalert.com/drunk-driving-statistics.html). 
-
-Download a CSV file with data for 1970 through 2012:
-```
+    Download a CSV file with data for 1970 through 2012:
+    ```
 
 1. Click *+Code*, enter the following command, and then click the *Run* button
    to execute.
-
-```
-!curl https://raw.githubusercontent.com/hendrtd/engr-1110/main/docs/data/dd_stats.csv --output dd_stats.csv
-```
+    ```
+    !curl https://raw.githubusercontent.com/hendrtd/engr-1110/main/docs/data/dd_stats.csv --output dd_stats.csv
+    ```
 
 1. Continue adding code and text cells to finish creating the rest of the
     notebook at the link below.
