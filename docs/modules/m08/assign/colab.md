@@ -68,7 +68,7 @@ Follow each step below to ensure that you create the expected Colab notebook.
 
 1. Click *+Code*, enter the following command, and then click the *Run* button
    to execute.
-    ```
+    ```bash
     !curl https://raw.githubusercontent.com/hendrtd/engr-1110/main/docs/data/dd_stats.csv --output dd_stats.csv
     ```
 
@@ -79,7 +79,7 @@ Follow each step below to ensure that you create the expected Colab notebook.
 
 1. Click *+Code*, enter the following command, and then click the *Run* button
    to execute.
-    ```
+    ```python
     with open('dd_stats.csv') as f:
     total_fatalities = []
     alcohol_fatalities = []
@@ -96,7 +96,7 @@ Follow each step below to ensure that you create the expected Colab notebook.
 
 1. Click *+Code*, enter the following command, and then click the *Run* button
    to execute.
-    ```
+    ```python
     years = range(1970, 2012)
     plt.plot(years, total_fatalities, label="Total")
     plt.plot(years, alcohol_fatalities, label="Alcohol-related")
