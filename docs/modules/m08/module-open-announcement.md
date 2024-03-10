@@ -21,6 +21,9 @@ project.
 - You will continue to use Scrum and Trello to plan, manage, and document your
 work, both for zyBook assignments and the course project.
 
+- You will learn to use Google Colab to create and deploy software solutions in
+Python.
+
 - An [active](https://en.wikipedia.org/wiki/Active_learning),
   [self-regulated](https://en.wikipedia.org/wiki/Self-regulated_learning)
   approach to learning in this course is crucial to your success. The passive
