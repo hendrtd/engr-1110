@@ -139,3 +139,14 @@ Follow each step below to ensure that you create the expected Colab notebook.
     - [https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing](https://colab.research.google.com/drive/1mjDot4RXf4nIN7xKYfABMgQym2xtXWc-?usp=sharing)
 
 
+## Submit Your Work To Be Graded
+
+1. Click the **Share** menu option in the top right of the Colab window.
+
+1. Make sure that *General Access* is set to "Anyone with the link".
+
+1. Click the **Copy Link** button.
+
+1. Use the link you just copied as the submission to this assignment in Canvas.
+
+
