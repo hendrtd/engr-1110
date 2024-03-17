@@ -4,7 +4,7 @@
 
 - *Cultural Intelligence: The Competitive Edge for Leaders*, [Julia Middleton](https://en.wikipedia.org/wiki/Julia_Middleton), [TEDxEastEnd](https://www.ted.com/about/programs-initiatives/tedx-program), 2015. (accessible via Perusall link in Canvas)
 
-- *Perusall Social Learning Tools for Students | How to comment in Perusall* (available via video link in Canvas).
+- *Perusall Social Learning Tools for Students: How to comment in Perusall* (available via video link in Canvas).
 
 - Chapter 13 of the course zyBook (accessible via zyBook link in
   Canvas).
