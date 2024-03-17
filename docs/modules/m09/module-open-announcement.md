@@ -1,18 +1,28 @@
-# Module 1 Announcements
+# Module 9 Announcements
 
-As you begin Module 1, here are a few things to keep in mind.
+Here are a few things to keep in mind as you begin this module.
 
 - Time management, as always, will be important. Be sure to set aside time each
 day to work on this course, and **don’t try to get everything done in the one
 or two days before things are due.**
 
-- Although the module is laid out sequentially, it might be best to work through
-  everything iteratively instead. That is, interleave working on the zyBook
-  Activities, the zyBook Lab, and the cultural intelligence readings and
-  responses, much like the [workflow](../m00/structure.md) suggested in Module 0.
-  But however you decide to go through the material, be sure to work on the
-  course each day, pace yourself, and prepare to have all graded work completed
-  by the end of the module.
+- Although the module is laid out sequentially, it might be best to work
+through everything iteratively instead. That is, interleave working on all the
+concepts presented in this module, just as described in the
+[workflow](../m00/structure.md) suggested in Module 0. But however you decide
+to go through the material, be sure to work on the course each day, pace
+yourself, and prepare to have all graded work completed by the end of the
+module.
+
+- Now that your team has completed the Project Concept, you will spend this
+module planning your work to develop and deliver the project over the following
+four modules.
+
+- We will start to turn our attention to **cultural competency**, or **cultural
+intelligence** (CQ) in this module, and we will be joined by a faculty member
+from the Department of World Languages, Literatures, and Cultures. You will
+have CQ assignments to complete, and you will need to pay close attention to
+the due dates for those.
 
 - An [active](https://en.wikipedia.org/wiki/Active_learning),
   [self-regulated](https://en.wikipedia.org/wiki/Self-regulated_learning)
@@ -26,4 +36,7 @@ or two days before things are due.**
   general questions answered is by posting to the course forum.
 
 Good luck, and have fun in the module!
+
+ <img src="../../img/rags.jpg" width="100">
+
 
