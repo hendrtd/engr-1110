@@ -4,7 +4,7 @@
 [Lecture Notes](notes/m10lecture.pdf)
 -->
 
-- *Leading with Cultural Intelligence The Real Secret to Success*, [David Livermore](https://davidlivermore.com/), 2022, Chapters 3 and 4. (accessible via Perusal link in Canvas)
+- *Leading with Cultural Intelligence The Real Secret to Success*, [David Livermore](https://davidlivermore.com/about_2/), 2022, Chapters 3 and 4. (accessible via Perusal link in Canvas)
 
 - Python Software Foundation: [https://python.org/](https://python.org/)
 - Official Python Documentation: [https://docs.python.org/](https://docs.python.org/)
