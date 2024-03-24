@@ -1,6 +1,8 @@
 # References & Resources
 
-[comment]: <> - ([Lecture Notes](notes/m10lecture.pdf))
+<!-- 
+[Lecture Notes](notes/m10lecture.pdf)
+-->
 
 - *Leading with Cultural Intelligence The Real Secret to Success*, [David Livermore](https://davidlivermore.com/), 2022, Chapters 3 and 4. (accessible via Perusal link in Canvas)
 
