@@ -1,18 +1,27 @@
-# Module 1 Announcements
+# Module 11 Announcements
 
-As you begin Module 1, here are a few things to keep in mind.
+Here are a few things to keep in mind as you begin this module.
 
 - Time management, as always, will be important. Be sure to set aside time each
 day to work on this course, and **don’t try to get everything done in the one
 or two days before things are due.**
 
-- Although the module is laid out sequentially, it might be best to work through
-  everything iteratively instead. That is, interleave working on the zyBook
-  Activities, the zyBook Lab, and the cultural intelligence readings and
-  responses, much like the [workflow](../m00/structure.md) suggested in Module 0.
-  But however you decide to go through the material, be sure to work on the
-  course each day, pace yourself, and prepare to have all graded work completed
-  by the end of the module.
+- Although the module is laid out sequentially, it might be best to work
+through everything iteratively instead. That is, interleave working on all the
+concepts presented in this module, just as described in the
+[workflow](../m00/structure.md) suggested in Module 0. But however you decide
+to go through the material, be sure to work on the course each day, pace
+yourself, and prepare to have all graded work completed by the end of the
+module.
+
+- You will be working with your team in **Sprint 2** - the second of four Scrum
+development sprints in which you actively develop your project deliverables.
+Sprint 2 concludes at the end of this module with the delivery of your team's
+**Alpha** release.
+
+- You will also be taking part in **active discussions** within your team and
+with the entire class regarding your thoughts and readings in **cultural
+intelligence**.
 
 - An [active](https://en.wikipedia.org/wiki/Active_learning),
   [self-regulated](https://en.wikipedia.org/wiki/Self-regulated_learning)
@@ -26,4 +35,7 @@ or two days before things are due.**
   general questions answered is by posting to the course forum.
 
 Good luck, and have fun in the module!
+
+ <img src="../../img/rags.jpg" width="100">
+
 
