@@ -3,7 +3,7 @@
 This module concludes our exploration of **cultural intelligence** and its
 importance in the context of engineering. This module also aligned with
 **Sprint 4**, the final Scrum development sprint which culminated in the
-project **Beta** release.
+project **Beta** release and **Presentation** slides.
 
 Take time now to review and reflect on this module and the work you've done.
 

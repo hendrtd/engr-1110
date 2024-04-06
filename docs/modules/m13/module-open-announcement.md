@@ -16,7 +16,7 @@ module.
 
 - You will be working with your team in **Sprint 4** - the final Scrum
 development sprint, and the sprint that culminates in the delivery of your
-team's **Beta** release.
+team's **Beta** release and **Presentation** slides.
 
 - This module concludes our focused exploration of **cultural intelligence**
 with a final class meeting with our co-instructor from World Languages,
